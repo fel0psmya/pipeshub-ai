@@ -1,0 +1,7062 @@
+{
+  "app\\connectors_main.py": {
+    "mi": 23.25591978911167,
+    "rank": "A"
+  },
+  "app\\docker_proxy_main.py": {
+    "mi": 81.85633424453339,
+    "rank": "A"
+  },
+  "app\\docling_main.py": {
+    "mi": 56.13949655545743,
+    "rank": "A"
+  },
+  "app\\edition.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\edition_config.py": {
+    "mi": 87.71186796363413,
+    "rank": "A"
+  },
+  "app\\edition_containers.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\edition_services.py": {
+    "mi": 68.3941158891384,
+    "rank": "A"
+  },
+  "app\\embedding_main.py": {
+    "mi": 23.33957077582781,
+    "rank": "A"
+  },
+  "app\\extraction_main.py": {
+    "mi": 69.84013779740225,
+    "rank": "A"
+  },
+  "app\\indexing_main.py": {
+    "mi": 0.6188321129999281,
+    "rank": "C"
+  },
+  "app\\parsing_main.py": {
+    "mi": 59.38134597274079,
+    "rank": "A"
+  },
+  "app\\query_main.py": {
+    "mi": 44.330148788310325,
+    "rank": "A"
+  },
+  "app\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\response_transformer.py": {
+    "mi": 52.248322969728925,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\utils.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\airtable\\airtable.py": {
+    "mi": 45.135396533819225,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\artifacts\\artifacts.py": {
+    "mi": 30.851196490373084,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\artifacts\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\azure\\azure_blob.py": {
+    "mi": 45.16304440879316,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\bookstack\\bookstack.py": {
+    "mi": 47.30437505846301,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\box\\box.py": {
+    "mi": 45.36911726302734,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\calculator\\calculator.py": {
+    "mi": 62.71979067377526,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\calculator\\date_calculator.py": {
+    "mi": 44.08492717593676,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\calculator\\exact.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\agents\\actions\\clickup\\clickup.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\agents\\actions\\coding_sandbox\\coding_sandbox.py": {
+    "mi": 46.712188924625046,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\coding_sandbox\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\confluence\\confluence.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\agents\\actions\\confluence_data_center\\confluence_data_center.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\agents\\actions\\database_sandbox\\database_sandbox.py": {
+    "mi": 50.35795431732849,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\database_sandbox\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\discord\\discord.py": {
+    "mi": 42.58723666509473,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\dropbox\\dropbox.py": {
+    "mi": 56.550038811889365,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\evernote\\evernote.py": {
+    "mi": 38.653374984255656,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\freshdesk\\freshdesk.py": {
+    "mi": 39.891698687989795,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\github\\github.py": {
+    "mi": 1.7933848850872642,
+    "rank": "C"
+  },
+  "app\\agents\\actions\\gitlab\\gitlab.py": {
+    "mi": 39.37943575661293,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\google\\calendar\\calendar.py": {
+    "mi": 37.30187537730446,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\google\\docs\\docs.py": {
+    "mi": 37.874520686157446,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\google\\drive\\drive.py": {
+    "mi": 39.88984796777084,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\google\\enterprise\\enterprise.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\google\\gmail\\gmail.py": {
+    "mi": 33.54393115665063,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\google\\gmail\\utils.py": {
+    "mi": 57.27463105223474,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\google\\google_calendar\\google_calendar.py": {
+    "mi": 64.60146603926134,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\google\\google_drive\\google_drive.py": {
+    "mi": 78.38716608690233,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\google\\sheets\\sheets.py": {
+    "mi": 37.828043752517765,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\google\\youtube\\youtube.py": {
+    "mi": 72.71109543682891,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\image_generator\\image_generator.py": {
+    "mi": 39.85384140322099,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\image_generator\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\internal_tools\\intrim_tools.py": {
+    "mi": 49.81270837097899,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\jira\\jira.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\agents\\actions\\jira_data_center\\jira_data_center.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\agents\\actions\\knowledge_graph\\catalog.py": {
+    "mi": 60.17841833392066,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\knowledge_graph\\entity_search_surface.py": {
+    "mi": 57.516777259627595,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\knowledge_graph\\identifiers.py": {
+    "mi": 57.99324896677585,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\knowledge_graph\\knowledge_graph.py": {
+    "mi": 19.630600925083986,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\knowledge_graph\\location.py": {
+    "mi": 49.921402491691055,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\knowledge_graph\\models.py": {
+    "mi": 70.11591616437494,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\knowledge_graph\\navigator.py": {
+    "mi": 44.71824705275815,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\knowledge_graph\\resolver.py": {
+    "mi": 37.53170636557081,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\knowledge_graph\\views.py": {
+    "mi": 44.51050495034675,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\knowledge_graph\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\knowledge_graph\\ops\\entity_discovery.py": {
+    "mi": 34.29789902442391,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\knowledge_graph\\ops\\entity_filters.py": {
+    "mi": 65.6730339981796,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\knowledge_graph\\ops\\entity_records.py": {
+    "mi": 43.33414463892649,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\knowledge_graph\\ops\\entity_search.py": {
+    "mi": 37.612333691420254,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\knowledge_graph\\ops\\fetch.py": {
+    "mi": 33.15161883602815,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\knowledge_graph\\ops\\id_recovery.py": {
+    "mi": 59.46246657937128,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\knowledge_graph\\ops\\listing.py": {
+    "mi": 46.48216884425529,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\knowledge_graph\\ops\\results.py": {
+    "mi": 58.267509446618156,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\knowledge_graph\\ops\\scope.py": {
+    "mi": 31.022262854684534,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\knowledge_graph\\ops\\search.py": {
+    "mi": 17.52977920524974,
+    "rank": "B"
+  },
+  "app\\agents\\actions\\knowledge_graph\\ops\\time_range.py": {
+    "mi": 58.63832796552361,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\knowledge_graph\\ops\\values.py": {
+    "mi": 50.64780381737717,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\knowledge_graph\\ops\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\knowledge_hub\\knowledge_hub.py": {
+    "mi": 49.71058167987937,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\knowledge_hub\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\linear\\linear.py": {
+    "mi": 41.06720663393168,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\linkedin\\linkedin.py": {
+    "mi": 48.171118035164035,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\lumos\\lumos.py": {
+    "mi": 20.154570580837213,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\mariadb\\mariadb.py": {
+    "mi": 22.073189930242208,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\microsoft\\one_drive\\one_drive.py": {
+    "mi": 7.042806276165991,
+    "rank": "C"
+  },
+  "app\\agents\\actions\\microsoft\\one_note\\one_note.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\microsoft\\outlook\\attachments.py": {
+    "mi": 61.508277097391904,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\microsoft\\outlook\\outlook.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\agents\\actions\\microsoft\\sharepoint\\sharepoint.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\agents\\actions\\microsoft\\teams\\teams.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\agents\\actions\\notion\\config.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\notion\\notion.py": {
+    "mi": 48.04231765453446,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\posthog\\posthog.py": {
+    "mi": 45.84336413383848,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\redshift\\redshift.py": {
+    "mi": 22.418206149817053,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\retrieval\\retrieval.py": {
+    "mi": 61.497069229186415,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\retrieval\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\s3\\s3.py": {
+    "mi": 56.346145363226626,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\salesforce\\attachments.py": {
+    "mi": 62.744349395543445,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\salesforce\\models.py": {
+    "mi": 24.868715899296756,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\salesforce\\salesforce.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\agents\\actions\\slack\\attachments.py": {
+    "mi": 63.04796339786619,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\slack\\config.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\slack\\slack.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\agents\\actions\\storage_search\\storage_search.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\agents\\actions\\storage_search\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\util\\attachments.py": {
+    "mi": 58.65747376067386,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\util\\attachment_upload.py": {
+    "mi": 81.44068285725017,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\util\\blob_staging.py": {
+    "mi": 69.5877555902412,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\util\\google_api_errors.py": {
+    "mi": 45.910151081272595,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\util\\parse_file.py": {
+    "mi": 35.75769022581463,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\util\\result_view.py": {
+    "mi": 22.137365869881112,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\util\\tool_summaries.py": {
+    "mi": 58.860180892113355,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\zendesk\\zendesk.py": {
+    "mi": 59.21369798325176,
+    "rank": "A"
+  },
+  "app\\agents\\actions\\zoom\\zoom.py": {
+    "mi": 3.023456668117801,
+    "rank": "C"
+  },
+  "app\\agents\\agent_loop\\answer_rules.py": {
+    "mi": 99.48207972919305,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\answer_streamer.py": {
+    "mi": 61.022762589431935,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\artifact_store.py": {
+    "mi": 76.05639942376649,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\cancellation_transport.py": {
+    "mi": 76.90770498683493,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\clarification.py": {
+    "mi": 88.48897837242853,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\confidence.py": {
+    "mi": 77.16930254292795,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\context.py": {
+    "mi": 48.906743946097805,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\converters.py": {
+    "mi": 34.61882748007226,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\direct_transport.py": {
+    "mi": 74.70229379366641,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\domain_agents.py": {
+    "mi": 57.049745371451486,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\entity_search_tool.py": {
+    "mi": 88.69110065050549,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\env_utils.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\error_classification.py": {
+    "mi": 55.96518723999059,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\factory.py": {
+    "mi": 11.159454593609587,
+    "rank": "B"
+  },
+  "app\\agents\\agent_loop\\image_guard.py": {
+    "mi": 67.30395423651204,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\instance_creator.py": {
+    "mi": 46.98273149726792,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\intent.py": {
+    "mi": 56.60677404156416,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\langchain_transport.py": {
+    "mi": 23.904388710911647,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\lazy_tools_wiring.py": {
+    "mi": 51.4296130759685,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\mcp_access.py": {
+    "mi": 77.22640818035526,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\mcp_result.py": {
+    "mi": 48.806293708328596,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\mcp_session.py": {
+    "mi": 41.69321166682937,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\mcp_sign_in.py": {
+    "mi": 74.4868878732656,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\mcp_tool_adapter.py": {
+    "mi": 34.5459314950732,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\mcp_tool_loader.py": {
+    "mi": 58.48687351028052,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\model_tier.py": {
+    "mi": 75.1836017722324,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\modes.py": {
+    "mi": 67.88447700450301,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\output_cap_transport.py": {
+    "mi": 63.89281024575513,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\parked_turn.py": {
+    "mi": 52.248124149459414,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\prompt_builder.py": {
+    "mi": 29.460465164552595,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\prompt_traces.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\reasoning_persistence.py": {
+    "mi": 80.60223520957575,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\respond.py": {
+    "mi": 38.661194027241486,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\retrieval_ledger.py": {
+    "mi": 32.35689681312371,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\router.py": {
+    "mi": 61.3862705567656,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\sandbox_bridge.py": {
+    "mi": 34.96384239907303,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\search_query_guidance.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\section_order.py": {
+    "mi": 98.3900571260376,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\skills_wiring.py": {
+    "mi": 74.7492585604346,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\sse_emitter.py": {
+    "mi": 70.57061328736215,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\stream_bridge.py": {
+    "mi": 46.00992943720755,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\sub_agent_prompt.py": {
+    "mi": 67.82531734366233,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\tool_adapter.py": {
+    "mi": 28.892810728484402,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\tool_approvals.py": {
+    "mi": 25.547151410893374,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\tool_loader.py": {
+    "mi": 39.37594991086385,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\tool_summarizer.py": {
+    "mi": 28.900095630837974,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\usage_transport.py": {
+    "mi": 75.63067936921307,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\web_tool_adapter.py": {
+    "mi": 66.22511786124575,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\cancellation\\factory.py": {
+    "mi": 77.46937176520076,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\cancellation\\in_process.py": {
+    "mi": 79.03342262346744,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\cancellation\\kv_backed.py": {
+    "mi": 69.91781980063479,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\cancellation\\registry.py": {
+    "mi": 69.40974115284229,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\cancellation\\validation.py": {
+    "mi": 98.45929515910713,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\cancellation\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\evals\\decomposition_harness.py": {
+    "mi": 72.3077244910928,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\evals\\decomposition_queries.py": {
+    "mi": 82.6944788239767,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\evals\\decomposition_scorer.py": {
+    "mi": 65.5572433139639,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\evals\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\hooks\\artifact_context.py": {
+    "mi": 65.60089551681163,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\hooks\\ask_user_question.py": {
+    "mi": 82.86094249431194,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\hooks\\attachment_resolver.py": {
+    "mi": 39.01948752895805,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\hooks\\citations.py": {
+    "mi": 53.61574609461032,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\hooks\\completion_gate.py": {
+    "mi": 86.75020430031847,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\hooks\\memory.py": {
+    "mi": 70.83571304102371,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\hooks\\progressive_tools.py": {
+    "mi": 71.57096553057394,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\hooks\\repeated_reads.py": {
+    "mi": 66.09708647221815,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\hooks\\result_accumulation.py": {
+    "mi": 86.66321931541076,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\hooks\\retrieval_context.py": {
+    "mi": 96.51178795110027,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\hooks\\retry_with_status.py": {
+    "mi": 72.95524806720034,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\hooks\\tool_blocking.py": {
+    "mi": 77.52517707229691,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\hooks\\_tool_naming.py": {
+    "mi": 89.35809558317186,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\hooks\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\loops\\orchestrator.py": {
+    "mi": 47.41376911843082,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\loops\\plan_execute.py": {
+    "mi": 79.2132076503433,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\loops\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\prompt_cache\\registry.py": {
+    "mi": 69.03755187682579,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\prompt_cache\\strategies.py": {
+    "mi": 53.15337549121735,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\prompt_cache\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\protocol\\agui.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\protocol\\agui_emitter.py": {
+    "mi": 57.8870366494604,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\protocol\\formatter.py": {
+    "mi": 63.7928536212711,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\protocol\\result_views.py": {
+    "mi": 86.29182411554983,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\protocol\\retrieval_context.py": {
+    "mi": 71.04769734114147,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\protocol\\run_usage.py": {
+    "mi": 65.40072048639185,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\protocol\\stream_collector.py": {
+    "mi": 53.867806804130886,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\protocol\\transcript_collector.py": {
+    "mi": 49.97993066192498,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\protocol\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\skills\\audit_governor.py": {
+    "mi": 73.33152846960219,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\skills\\builtin_seeder.py": {
+    "mi": 71.6549405234442,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\skills\\graph_store.py": {
+    "mi": 27.36468335690042,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\skills\\graph_tracker.py": {
+    "mi": 57.78757761687523,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\skills\\manager_factory.py": {
+    "mi": 67.33594942599115,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\skills\\scoped_manager.py": {
+    "mi": 79.8898406106517,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\skills\\semantic_index.py": {
+    "mi": 46.7061022702958,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\skills\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\skills\\builtin_packs\\office-utils\\scripts\\pack.py": {
+    "mi": 65.51440130142291,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\skills\\builtin_packs\\office-utils\\scripts\\unpack.py": {
+    "mi": 74.56256208863101,
+    "rank": "A"
+  },
+  "app\\agents\\agent_loop\\skills\\builtin_packs\\xlsx\\scripts\\verify_formulas.py": {
+    "mi": 62.20737621335827,
+    "rank": "A"
+  },
+  "app\\agents\\chat_modes\\attachments.py": {
+    "mi": 68.75833489843585,
+    "rank": "A"
+  },
+  "app\\agents\\chat_modes\\bridge.py": {
+    "mi": 39.27002642764733,
+    "rank": "A"
+  },
+  "app\\agents\\chat_modes\\custom_instructions.py": {
+    "mi": 91.2902298033662,
+    "rank": "A"
+  },
+  "app\\agents\\chat_modes\\internal_search_prompt.py": {
+    "mi": 81.9120019303563,
+    "rank": "A"
+  },
+  "app\\agents\\chat_modes\\policy.py": {
+    "mi": 72.26969807762947,
+    "rank": "A"
+  },
+  "app\\agents\\chat_modes\\prefetch.py": {
+    "mi": 57.42807411140198,
+    "rank": "A"
+  },
+  "app\\agents\\chat_modes\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\constants\\mcp_server_constants.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\constants\\toolset_constants.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\mcp\\catalog.py": {
+    "mi": 71.7760160249623,
+    "rank": "A"
+  },
+  "app\\agents\\mcp\\cimd.py": {
+    "mi": 59.76890047131466,
+    "rank": "A"
+  },
+  "app\\agents\\mcp\\client.py": {
+    "mi": 9.935129964433173,
+    "rank": "B"
+  },
+  "app\\agents\\mcp\\dcr.py": {
+    "mi": 41.53762412759458,
+    "rank": "A"
+  },
+  "app\\agents\\mcp\\discovery.py": {
+    "mi": 49.77988674742088,
+    "rank": "A"
+  },
+  "app\\agents\\mcp\\errors.py": {
+    "mi": 65.81926286285679,
+    "rank": "A"
+  },
+  "app\\agents\\mcp\\failure.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\mcp\\lifecycle.py": {
+    "mi": 55.20530906191617,
+    "rank": "A"
+  },
+  "app\\agents\\mcp\\mcp_server_decorator.py": {
+    "mi": 93.4237904901757,
+    "rank": "A"
+  },
+  "app\\agents\\mcp\\models.py": {
+    "mi": 51.74328868642633,
+    "rank": "A"
+  },
+  "app\\agents\\mcp\\naming.py": {
+    "mi": 67.48143149188583,
+    "rank": "A"
+  },
+  "app\\agents\\mcp\\oauth_client.py": {
+    "mi": 49.495578340116076,
+    "rank": "A"
+  },
+  "app\\agents\\mcp\\registry.py": {
+    "mi": 73.98186829883082,
+    "rank": "A"
+  },
+  "app\\agents\\mcp\\service.py": {
+    "mi": 44.71497545694627,
+    "rank": "A"
+  },
+  "app\\agents\\mcp\\stdio_policy.py": {
+    "mi": 37.99530275311394,
+    "rank": "A"
+  },
+  "app\\agents\\mcp\\step_up.py": {
+    "mi": 73.77781814742521,
+    "rank": "A"
+  },
+  "app\\agents\\mcp\\token_refresh.py": {
+    "mi": 52.01944404700634,
+    "rank": "A"
+  },
+  "app\\agents\\mcp\\tool_cache.py": {
+    "mi": 46.83830952144493,
+    "rank": "A"
+  },
+  "app\\agents\\mcp\\tool_kind.py": {
+    "mi": 74.48234251155185,
+    "rank": "A"
+  },
+  "app\\agents\\mcp\\url_guard.py": {
+    "mi": 55.194421272170715,
+    "rank": "A"
+  },
+  "app\\agents\\mcp\\wire.py": {
+    "mi": 69.6731020592485,
+    "rank": "A"
+  },
+  "app\\agents\\mcp\\www_authenticate.py": {
+    "mi": 72.10513970754664,
+    "rank": "A"
+  },
+  "app\\agents\\mcp\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\mcp\\servers\\atlassian_rovo.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\mcp\\servers\\box.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\mcp\\servers\\brave_search.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\mcp\\servers\\clickup.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\mcp\\servers\\datadog.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\mcp\\servers\\docusign.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\mcp\\servers\\dropbox.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\mcp\\servers\\exa.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\mcp\\servers\\github.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\mcp\\servers\\gitlab.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\mcp\\servers\\gmail.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\mcp\\servers\\google_calendar.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\mcp\\servers\\google_drive.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\mcp\\servers\\greenhouse.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\mcp\\servers\\hubspot.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\mcp\\servers\\linear.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\mcp\\servers\\notion.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\mcp\\servers\\outreach.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\mcp\\servers\\pagerduty.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\mcp\\servers\\posthog.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\mcp\\servers\\redshift.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\mcp\\servers\\sentry.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\mcp\\servers\\servicenow.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\mcp\\servers\\slack.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\mcp\\servers\\slack_official.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\mcp\\servers\\stripe.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\mcp\\servers\\zoom.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\mcp\\servers\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\registry\\toolset_registry.py": {
+    "mi": 28.133031598277714,
+    "rank": "A"
+  },
+  "app\\agents\\tools\\factories\\airtable.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\tools\\factories\\azureblob.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\tools\\factories\\base.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\tools\\factories\\bookstack.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\tools\\factories\\box.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\tools\\factories\\clickup.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\tools\\factories\\confluence.py": {
+    "mi": 84.47889775691814,
+    "rank": "A"
+  },
+  "app\\agents\\tools\\factories\\discord.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\tools\\factories\\dropbox.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\tools\\factories\\evernote.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\tools\\factories\\freshdesk.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\tools\\factories\\github.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\tools\\factories\\gitlab.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\tools\\factories\\google.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\tools\\factories\\jira.py": {
+    "mi": 84.6052270731892,
+    "rank": "A"
+  },
+  "app\\agents\\tools\\factories\\linear.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\tools\\factories\\linkedin.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\tools\\factories\\lumos.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\tools\\factories\\mariadb.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\tools\\factories\\microsoft.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\tools\\factories\\notion.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\tools\\factories\\posthog.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\tools\\factories\\redshift.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\tools\\factories\\registry.py": {
+    "mi": 73.6854532608722,
+    "rank": "A"
+  },
+  "app\\agents\\tools\\factories\\s3.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\tools\\factories\\salesforce.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\tools\\factories\\servicenow.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\tools\\factories\\slack.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\tools\\factories\\zendesk.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\tools\\factories\\zoom.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agents\\tools\\factories\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\builder.py": {
+    "mi": 61.56968261812799,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\cli.py": {
+    "mi": 13.593505469891586,
+    "rank": "B"
+  },
+  "app\\agent_loop_lib\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\__main__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\agent\\best_of_n.py": {
+    "mi": 62.74351629705136,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\agent\\feasibility.py": {
+    "mi": 86.0940441232345,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\agent\\goal.py": {
+    "mi": 69.95481407352894,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\agent\\hook_dispatch.py": {
+    "mi": 66.54408291498427,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\agent\\intent.py": {
+    "mi": 72.435547352613,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\agent\\loops.py": {
+    "mi": 60.44244794749316,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\agent\\observability.py": {
+    "mi": 58.860238486989154,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\agent\\phase_driver.py": {
+    "mi": 67.99469731863287,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\agent\\prompt.py": {
+    "mi": 57.24306725520304,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\agent\\resume.py": {
+    "mi": 75.27037045883486,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\agent\\single_shot_runner.py": {
+    "mi": 60.362521239224655,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\agent\\spawn_scheduler.py": {
+    "mi": 43.955734355952586,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\agent\\spec.py": {
+    "mi": 68.5837202600855,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\agent\\streaming.py": {
+    "mi": 81.24447302188595,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\agent\\tool_loop.py": {
+    "mi": 45.07353485161179,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\agent\\__init__.py": {
+    "mi": 21.3007210182277,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\commands\\base.py": {
+    "mi": 99.33599306094663,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\commands\\loader.py": {
+    "mi": 80.78782001448965,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\commands\\registry.py": {
+    "mi": 78.77103382655224,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\commands\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\context\\base.py": {
+    "mi": 77.93597945140046,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\context\\graph.py": {
+    "mi": 70.3486813409829,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\context\\graph_builder.py": {
+    "mi": 62.67909207148929,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\context\\manager.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\context\\window.py": {
+    "mi": 70.77975229906684,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\context\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\control_plane\\config.py": {
+    "mi": 51.51150182606432,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\control_plane\\control_plane.py": {
+    "mi": 28.125314660892553,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\control_plane\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\core\\context.py": {
+    "mi": 82.12934100473721,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\core\\exceptions.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\core\\finish_moves.py": {
+    "mi": 85.25008520876555,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\core\\interfaces.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\core\\json_stream.py": {
+    "mi": 66.84915292113025,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\core\\messages.py": {
+    "mi": 60.352037420749205,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\core\\registry.py": {
+    "mi": 63.339374897661834,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\core\\responses.py": {
+    "mi": 78.43135895665468,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\core\\scope.py": {
+    "mi": 51.83753809911357,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\core\\streaming.py": {
+    "mi": 83.66253307006589,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\core\\structured_output.py": {
+    "mi": 83.47431262419302,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\core\\text_scoring.py": {
+    "mi": 89.24076800956877,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\core\\tokens.py": {
+    "mi": 70.83041272270826,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\core\\tool_schema.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\core\\types.py": {
+    "mi": 70.65299776840443,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\core\\usage_source.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\core\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\eval\\decision_trace.py": {
+    "mi": 72.34113709370457,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\eval\\feedback.py": {
+    "mi": 91.0046500008849,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\eval\\rubric.py": {
+    "mi": 66.78590579826852,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\eval\\trajectory.py": {
+    "mi": 79.64384059671751,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\eval\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\events\\base.py": {
+    "mi": 76.91846323000489,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\events\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\events\\emitters\\logging.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\events\\emitters\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\hooks\\events.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\hooks\\registry.py": {
+    "mi": 74.95409731969849,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\hooks\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\hooks\\middleware\\context.py": {
+    "mi": 58.06142443400092,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\hooks\\middleware\\decisions.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\hooks\\middleware\\pipeline.py": {
+    "mi": 73.58007101057284,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\hooks\\middleware\\routing.py": {
+    "mi": 67.8051708929404,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\hooks\\middleware\\wrapper.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\hooks\\middleware\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\hooks\\middleware\\builtin\\artifact_compaction.py": {
+    "mi": 64.56661064763566,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\hooks\\middleware\\builtin\\artifact_registration.py": {
+    "mi": 58.66623976222372,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\hooks\\middleware\\builtin\\auto_compact.py": {
+    "mi": 49.0617693958421,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\hooks\\middleware\\builtin\\budget_guard.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\hooks\\middleware\\builtin\\budget_reduction.py": {
+    "mi": 66.88378828375511,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\hooks\\middleware\\builtin\\coding_sandbox_safety.py": {
+    "mi": 85.05554405957989,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\hooks\\middleware\\builtin\\deterministic_compact.py": {
+    "mi": 58.63217593146467,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\hooks\\middleware\\builtin\\e2b_sandbox_guard.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\hooks\\middleware\\builtin\\logging.py": {
+    "mi": 77.35858418367026,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\hooks\\middleware\\builtin\\loop_compaction.py": {
+    "mi": 59.88916018303961,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\hooks\\middleware\\builtin\\metered_sandbox_guard.py": {
+    "mi": 75.66147196055086,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\hooks\\middleware\\builtin\\mode.py": {
+    "mi": 86.24695199607605,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\hooks\\middleware\\builtin\\offload.py": {
+    "mi": 77.32558154578548,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\hooks\\middleware\\builtin\\permission.py": {
+    "mi": 59.221684226360836,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\hooks\\middleware\\builtin\\require_critique.py": {
+    "mi": 73.90878340954364,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\hooks\\middleware\\builtin\\retry.py": {
+    "mi": 80.31910998370493,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\hooks\\middleware\\builtin\\skill_learning.py": {
+    "mi": 67.63836721096752,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\hooks\\middleware\\builtin\\skill_preloading.py": {
+    "mi": 71.63497044216432,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\hooks\\middleware\\builtin\\sliding_window.py": {
+    "mi": 70.6401855160078,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\hooks\\middleware\\builtin\\stall_detection.py": {
+    "mi": 65.35379712800487,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\hooks\\middleware\\builtin\\supervisor_gate.py": {
+    "mi": 68.92012118282584,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\hooks\\middleware\\builtin\\synthesis_guard.py": {
+    "mi": 59.11810354156349,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\hooks\\middleware\\builtin\\tool_preloading.py": {
+    "mi": 63.61399043725092,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\hooks\\middleware\\builtin\\tool_result_clearing.py": {
+    "mi": 59.81635386552889,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\hooks\\middleware\\builtin\\tool_safety.py": {
+    "mi": 86.17169981861574,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\hooks\\middleware\\builtin\\truncation_recovery.py": {
+    "mi": 79.22088352265267,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\hooks\\middleware\\builtin\\turn_guards.py": {
+    "mi": 71.03929101961002,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\hooks\\middleware\\builtin\\_message_boundaries.py": {
+    "mi": 65.82288314251676,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\hooks\\middleware\\builtin\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\models\\base.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\models\\transport.py": {
+    "mi": 82.89648032145942,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\models\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\pipeline\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\pipeline\\critic\\base.py": {
+    "mi": 78.2072243678311,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\pipeline\\critic\\plan_critic.py": {
+    "mi": 60.47946286624732,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\pipeline\\critic\\result_critic.py": {
+    "mi": 56.96106188812534,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\pipeline\\critic\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\pipeline\\planner\\base.py": {
+    "mi": 68.8636723482222,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\pipeline\\planner\\default.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\pipeline\\planner\\plan_ahead.py": {
+    "mi": 77.79328816239233,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\pipeline\\planner\\replanner.py": {
+    "mi": 82.06784487088836,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\pipeline\\planner\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\providers\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\providers\\budget\\base.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\providers\\budget\\pricing.py": {
+    "mi": 76.750400745993,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\providers\\budget\\tracker.py": {
+    "mi": 56.239495234364355,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\providers\\budget\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\providers\\knowledge\\base.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\providers\\knowledge\\in_memory.py": {
+    "mi": 63.380839204047774,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\providers\\knowledge\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\providers\\memory\\base.py": {
+    "mi": 82.9071670548623,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\providers\\memory\\in_memory.py": {
+    "mi": 59.93750768105096,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\providers\\memory\\sqlite.py": {
+    "mi": 50.87182899532718,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\providers\\memory\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\providers\\skills\\base.py": {
+    "mi": 46.741473757562154,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\providers\\skills\\bundle.py": {
+    "mi": 81.26647907730559,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\providers\\skills\\evaluator.py": {
+    "mi": 68.07330311677696,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\providers\\skills\\extractor.py": {
+    "mi": 54.88501517042686,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\providers\\skills\\filesystem_index.py": {
+    "mi": 60.69193034989713,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\providers\\skills\\filesystem_store.py": {
+    "mi": 36.849613400910926,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\providers\\skills\\governor.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\providers\\skills\\index.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\providers\\skills\\in_memory_tracker.py": {
+    "mi": 62.66915868477297,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\providers\\skills\\loader.py": {
+    "mi": 60.654185391373126,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\providers\\skills\\manager.py": {
+    "mi": 38.55997745023955,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\providers\\skills\\store.py": {
+    "mi": 73.09621536018342,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\providers\\skills\\text_scoring.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\providers\\skills\\tracker.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\providers\\skills\\validator.py": {
+    "mi": 55.715611229105235,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\providers\\skills\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\providers\\workspace\\base.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\providers\\workspace\\in_memory.py": {
+    "mi": 53.34694485769756,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\providers\\workspace\\local.py": {
+    "mi": 59.64269745173393,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\providers\\workspace\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\stores\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\stores\\approval\\base.py": {
+    "mi": 64.40307878361195,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\stores\\approval\\hook.py": {
+    "mi": 73.85546036383984,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\stores\\approval\\in_memory.py": {
+    "mi": 73.56904335822735,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\stores\\approval\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\stores\\checkpoint\\base.py": {
+    "mi": 73.47751681336527,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\stores\\checkpoint\\in_memory.py": {
+    "mi": 59.22045710815967,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\stores\\checkpoint\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\stores\\hil\\base.py": {
+    "mi": 71.51568926484443,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\stores\\hil\\in_memory.py": {
+    "mi": 58.45041704866063,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\stores\\hil\\stdin.py": {
+    "mi": 64.22108998152714,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\stores\\hil\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\stores\\session\\base.py": {
+    "mi": 61.919127190429805,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\stores\\session\\in_memory.py": {
+    "mi": 64.89907161630971,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\stores\\session\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\stores\\state\\base.py": {
+    "mi": 51.76865073661926,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\stores\\state\\in_memory.py": {
+    "mi": 65.40467694099308,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\stores\\state\\tree.py": {
+    "mi": 47.864383233207775,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\stores\\state\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\stores\\timeline\\base.py": {
+    "mi": 58.31480092700058,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\stores\\timeline\\in_memory.py": {
+    "mi": 62.87603844142782,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\modules\\stores\\timeline\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\roles\\base.py": {
+    "mi": 86.42163322245418,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\roles\\prompt_template.py": {
+    "mi": 82.87708335190818,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\roles\\registry.py": {
+    "mi": 59.721289134928,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\roles\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\roles\\builtin\\assistant.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\roles\\builtin\\coder.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\roles\\builtin\\critic.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\roles\\builtin\\planner.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\roles\\builtin\\researcher.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\roles\\builtin\\skill_writer.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\roles\\builtin\\verifier.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\roles\\builtin\\web_search.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\roles\\builtin\\writer.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\roles\\builtin\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\runtime\\factory.py": {
+    "mi": 69.54680659034385,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\runtime\\runtime.py": {
+    "mi": 61.97401370707742,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\runtime\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\sandbox\\base.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\sandbox\\browser_sandbox.py": {
+    "mi": 75.84870954733897,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\sandbox\\confinement.py": {
+    "mi": 73.44653810092505,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\sandbox\\db_sandbox.py": {
+    "mi": 70.89307313323896,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\sandbox\\governor.py": {
+    "mi": 62.79978354436474,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\sandbox\\local.py": {
+    "mi": 60.63775729959256,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\sandbox\\manager.py": {
+    "mi": 45.84123788006505,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\sandbox\\os_sandbox.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\sandbox\\rpc.py": {
+    "mi": 59.340417501283056,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\sandbox\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\sandbox\\coding\\base.py": {
+    "mi": 55.882255973206085,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\sandbox\\coding\\cleanup.py": {
+    "mi": 81.2042345172312,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\sandbox\\coding\\docker.py": {
+    "mi": 24.676241427589858,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\sandbox\\coding\\docker_client.py": {
+    "mi": 65.40969913895744,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\sandbox\\coding\\e2b.py": {
+    "mi": 45.284434218244925,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\sandbox\\coding\\egress_firewall.py": {
+    "mi": 54.0003725805502,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\sandbox\\coding\\environment.py": {
+    "mi": 55.863013104530914,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\sandbox\\coding\\executor.py": {
+    "mi": 61.607365686546984,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\sandbox\\coding\\local.py": {
+    "mi": 60.01653542017246,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\sandbox\\coding\\reflection.py": {
+    "mi": 60.15431267049529,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\sandbox\\coding\\registry.py": {
+    "mi": 64.32543192835831,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\sandbox\\coding\\settings.py": {
+    "mi": 62.889530105733925,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\sandbox\\coding\\validation.py": {
+    "mi": 75.9432524233715,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\sandbox\\coding\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\sandbox\\coding\\factories\\docker.py": {
+    "mi": 62.442169023396765,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\sandbox\\coding\\factories\\e2b.py": {
+    "mi": 72.0733131851196,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\sandbox\\coding\\factories\\local.py": {
+    "mi": 66.68836924587737,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\sandbox\\coding\\factories\\__init__.py": {
+    "mi": 92.03932792252864,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\serve\\app.py": {
+    "mi": 72.10895159429657,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\serve\\playground.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\serve\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\tools\\approval.py": {
+    "mi": 87.31231549902834,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\tools\\base.py": {
+    "mi": 53.89659025389453,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\tools\\budget.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\tools\\decorators.py": {
+    "mi": 51.52774805722203,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\tools\\errors.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\tools\\executor.py": {
+    "mi": 57.274983728264296,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\tools\\global_fallback.py": {
+    "mi": 80.37060803603224,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\tools\\index.py": {
+    "mi": 49.99816303217956,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\tools\\provider.py": {
+    "mi": 79.01924396647804,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\tools\\registry.py": {
+    "mi": 40.148612027649854,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\tools\\special_route.py": {
+    "mi": 68.56374862315569,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\tools\\summarizer.py": {
+    "mi": 66.44337887799612,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\tools\\tags.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\tools\\toolset.py": {
+    "mi": 64.10303645405779,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\tools\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\tools\\builtin\\lazy_toolsets.py": {
+    "mi": 43.246587659682326,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\tools\\builtin\\parse_intent.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\tools\\builtin\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\tools\\builtin\\coordination\\agent_tool.py": {
+    "mi": 60.72201772520667,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\tools\\builtin\\coordination\\best_of_n.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\tools\\builtin\\coordination\\clarify.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\tools\\builtin\\coordination\\graph_utils.py": {
+    "mi": 82.14057494283882,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\tools\\builtin\\coordination\\handoff.py": {
+    "mi": 69.73596734561086,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\tools\\builtin\\coordination\\parent_results.py": {
+    "mi": 53.249227983721106,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\tools\\builtin\\coordination\\route_task.py": {
+    "mi": 73.60722697942298,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\tools\\builtin\\coordination\\spawn_agent.py": {
+    "mi": 59.45904428184328,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\tools\\builtin\\coordination\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\tools\\builtin\\data\\knowledge_query.py": {
+    "mi": 60.23699398217107,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\tools\\builtin\\data\\memory_tools.py": {
+    "mi": 48.31578518466798,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\tools\\builtin\\data\\retrieve_artifact.py": {
+    "mi": 63.68416322203984,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\tools\\builtin\\data\\skills.py": {
+    "mi": 23.44847489029545,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\tools\\builtin\\data\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\tools\\builtin\\filesystem\\execute_code.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\tools\\builtin\\filesystem\\filesystem.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\tools\\builtin\\filesystem\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\tools\\builtin\\planning\\create_plan.py": {
+    "mi": 58.60366971901634,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\tools\\builtin\\planning\\critique_plan.py": {
+    "mi": 59.157826036227256,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\tools\\builtin\\planning\\final_answer.py": {
+    "mi": 67.3630508584049,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\tools\\builtin\\planning\\replan.py": {
+    "mi": 69.09218547316038,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\tools\\builtin\\planning\\request_review.py": {
+    "mi": 78.91701008069855,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\tools\\builtin\\planning\\task_complete.py": {
+    "mi": 64.27342371185408,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\tools\\builtin\\planning\\todos.py": {
+    "mi": 82.87650591369277,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\tools\\builtin\\planning\\verify_result.py": {
+    "mi": 76.98509316790488,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\tools\\builtin\\planning\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\tools\\builtin\\sandbox\\browser_sandbox.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\tools\\builtin\\sandbox\\coding_sandbox.py": {
+    "mi": 42.13691464451438,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\tools\\builtin\\sandbox\\db_sandbox.py": {
+    "mi": 74.33093553485726,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\tools\\builtin\\sandbox\\input_staging.py": {
+    "mi": 48.68138234217973,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\tools\\builtin\\sandbox\\os_sandbox.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\tools\\builtin\\sandbox\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\tools\\builtin\\web\\web_scrape.py": {
+    "mi": 57.76434433835541,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\tools\\builtin\\web\\web_search.py": {
+    "mi": 56.04701346103797,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\tools\\builtin\\web\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\transport\\anthropic.py": {
+    "mi": 28.46360348980301,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\transport\\azure_openai.py": {
+    "mi": 71.58032478000193,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\transport\\base.py": {
+    "mi": 84.61587518079358,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\transport\\content_filter.py": {
+    "mi": 88.35092602197157,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\transport\\gemini.py": {
+    "mi": 28.174330846578304,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\transport\\ollama.py": {
+    "mi": 43.57314883562553,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\transport\\openai.py": {
+    "mi": 11.614715590101822,
+    "rank": "B"
+  },
+  "app\\agent_loop_lib\\transport\\openai_responses.py": {
+    "mi": 55.71724368585772,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\transport\\opik_tracing.py": {
+    "mi": 53.73472964992575,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\transport\\prompt_cache.py": {
+    "mi": 60.38390917248561,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\transport\\provider_conflicts.py": {
+    "mi": 74.50564587304099,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\transport\\registry.py": {
+    "mi": 81.15875624183406,
+    "rank": "A"
+  },
+  "app\\agent_loop_lib\\transport\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\api\\middlewares\\admin_gate.py": {
+    "mi": 89.14224705489869,
+    "rank": "A"
+  },
+  "app\\api\\middlewares\\auth.py": {
+    "mi": 52.16169074080672,
+    "rank": "A"
+  },
+  "app\\api\\middlewares\\caller_role.py": {
+    "mi": 55.03342449313365,
+    "rank": "A"
+  },
+  "app\\api\\middlewares\\request_context.py": {
+    "mi": 70.87930077287774,
+    "rank": "A"
+  },
+  "app\\api\\middlewares\\token_policy.py": {
+    "mi": 82.337851019352,
+    "rank": "A"
+  },
+  "app\\api\\routes\\agent.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\api\\routes\\ai_models_registry.py": {
+    "mi": 61.323803005467695,
+    "rank": "A"
+  },
+  "app\\api\\routes\\chatbot.py": {
+    "mi": 0.8117105366809785,
+    "rank": "C"
+  },
+  "app\\api\\routes\\entity.py": {
+    "mi": 22.946232918675207,
+    "rank": "A"
+  },
+  "app\\api\\routes\\extraction.py": {
+    "mi": 60.45547749818971,
+    "rank": "A"
+  },
+  "app\\api\\routes\\health.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\api\\routes\\mcp_resolvers.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\api\\routes\\mcp_servers.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\api\\routes\\openai_models.py": {
+    "mi": 66.01230217378648,
+    "rank": "A"
+  },
+  "app\\api\\routes\\parsing.py": {
+    "mi": 61.55816452363059,
+    "rank": "A"
+  },
+  "app\\api\\routes\\records.py": {
+    "mi": 57.1615763724904,
+    "rank": "A"
+  },
+  "app\\api\\routes\\search.py": {
+    "mi": 57.69682419518607,
+    "rank": "A"
+  },
+  "app\\api\\routes\\search_llm_resolver.py": {
+    "mi": 70.93336629408134,
+    "rank": "A"
+  },
+  "app\\api\\routes\\skills.py": {
+    "mi": 32.581866611891954,
+    "rank": "A"
+  },
+  "app\\api\\routes\\speech.py": {
+    "mi": 60.549868203721545,
+    "rank": "A"
+  },
+  "app\\api\\routes\\toolsets.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\api\\routes\\toolset_resolvers.py": {
+    "mi": 38.357697717390884,
+    "rank": "A"
+  },
+  "app\\config\\configuration_service.py": {
+    "mi": 43.550081613413916,
+    "rank": "A"
+  },
+  "app\\config\\key_value_store.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\config\\key_value_store_factory.py": {
+    "mi": 53.98049009139943,
+    "rank": "A"
+  },
+  "app\\config\\redaction.py": {
+    "mi": 90.31907846130697,
+    "rank": "A"
+  },
+  "app\\config\\ai_models\\registry.py": {
+    "mi": 48.47958804768449,
+    "rank": "A"
+  },
+  "app\\config\\ai_models\\types.py": {
+    "mi": 73.54265231252677,
+    "rank": "A"
+  },
+  "app\\config\\ai_models\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\config\\ai_models\\providers\\anthropic.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\config\\ai_models\\providers\\azure.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\config\\ai_models\\providers\\bedrock.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\config\\ai_models\\providers\\cohere.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\config\\ai_models\\providers\\common_fields.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\config\\ai_models\\providers\\embedding_only.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\config\\ai_models\\providers\\gemini.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\config\\ai_models\\providers\\litellm_proxy.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\config\\ai_models\\providers\\llm_only.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\config\\ai_models\\providers\\lm_studio.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\config\\ai_models\\providers\\mistral.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\config\\ai_models\\providers\\ollama.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\config\\ai_models\\providers\\openai.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\config\\ai_models\\providers\\openai_compatible.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\config\\ai_models\\providers\\openrouter.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\config\\ai_models\\providers\\together.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\config\\ai_models\\providers\\typesafe.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\config\\ai_models\\providers\\vertex_ai.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\config\\ai_models\\providers\\whisper.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\config\\ai_models\\providers\\wispr.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\config\\ai_models\\providers\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\config\\constants\\ai_models.py": {
+    "mi": 80.59880456793557,
+    "rank": "A"
+  },
+  "app\\config\\constants\\arangodb.py": {
+    "mi": 52.17355329300954,
+    "rank": "A"
+  },
+  "app\\config\\constants\\http_status_code.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\config\\constants\\neo4j.py": {
+    "mi": 75.96737525540975,
+    "rank": "A"
+  },
+  "app\\config\\constants\\service.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\config\\constants\\store_type.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\config\\encryption\\encryption_service.py": {
+    "mi": 65.82449638079042,
+    "rank": "A"
+  },
+  "app\\config\\providers\\encrypted_store.py": {
+    "mi": 46.66715801386294,
+    "rank": "A"
+  },
+  "app\\config\\providers\\in_memory_store.py": {
+    "mi": 54.94929855453625,
+    "rank": "A"
+  },
+  "app\\config\\providers\\etcd\\etcd3_connection_manager.py": {
+    "mi": 55.726475148972554,
+    "rank": "A"
+  },
+  "app\\config\\providers\\etcd\\etcd3_encrypted_store.py": {
+    "mi": 49.74873631850212,
+    "rank": "A"
+  },
+  "app\\config\\providers\\etcd\\etcd3_store.py": {
+    "mi": 33.627228615499405,
+    "rank": "A"
+  },
+  "app\\config\\providers\\redis\\redis_store.py": {
+    "mi": 38.85647489065509,
+    "rank": "A"
+  },
+  "app\\connectors\\api\\artifacts_router.py": {
+    "mi": 49.36542111517755,
+    "rank": "A"
+  },
+  "app\\connectors\\api\\connector_resolvers.py": {
+    "mi": 47.75736002814487,
+    "rank": "A"
+  },
+  "app\\connectors\\api\\middleware.py": {
+    "mi": 70.93438385212593,
+    "rank": "A"
+  },
+  "app\\connectors\\api\\router.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\connectors\\api\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\core\\constants.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\core\\thread_pool.py": {
+    "mi": 47.222458727989434,
+    "rank": "A"
+  },
+  "app\\connectors\\core\\base\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\core\\base\\connector\\connector_service.py": {
+    "mi": 39.33741287615598,
+    "rank": "A"
+  },
+  "app\\connectors\\core\\base\\connector\\instance_lock.py": {
+    "mi": 73.43603800535284,
+    "rank": "A"
+  },
+  "app\\connectors\\core\\base\\connector\\stream_purpose.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\core\\base\\data_processor\\data_source_entities_processor.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\connectors\\core\\base\\data_processor\\record_links.py": {
+    "mi": 54.8616568682398,
+    "rank": "A"
+  },
+  "app\\connectors\\core\\base\\data_processor\\storage_cleanup.py": {
+    "mi": 35.810642427003124,
+    "rank": "A"
+  },
+  "app\\connectors\\core\\base\\data_store\\data_store.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\core\\base\\data_store\\graph_data_store.py": {
+    "mi": 14.51943093883103,
+    "rank": "B"
+  },
+  "app\\connectors\\core\\base\\data_store\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\core\\base\\error\\sql_stream_errors.py": {
+    "mi": 77.82511946268428,
+    "rank": "A"
+  },
+  "app\\connectors\\core\\base\\error\\stream_errors.py": {
+    "mi": 46.68892834148442,
+    "rank": "A"
+  },
+  "app\\connectors\\core\\base\\error\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\core\\base\\event_service\\event_service.py": {
+    "mi": 63.85727536531241,
+    "rank": "A"
+  },
+  "app\\connectors\\core\\base\\sync_point\\sync_point.py": {
+    "mi": 56.03436266583832,
+    "rank": "A"
+  },
+  "app\\connectors\\core\\base\\token_service\\mcp_token_refresh_service.py": {
+    "mi": 40.04801130128355,
+    "rank": "A"
+  },
+  "app\\connectors\\core\\base\\token_service\\oauth_service.py": {
+    "mi": 33.75582325168855,
+    "rank": "A"
+  },
+  "app\\connectors\\core\\base\\token_service\\startup_service.py": {
+    "mi": 63.311392999912194,
+    "rank": "A"
+  },
+  "app\\connectors\\core\\base\\token_service\\token_refresh_service.py": {
+    "mi": 19.555359645623803,
+    "rank": "A"
+  },
+  "app\\connectors\\core\\base\\token_service\\token_service.py": {
+    "mi": 67.07294218960318,
+    "rank": "A"
+  },
+  "app\\connectors\\core\\base\\token_service\\toolset_token_refresh_service.py": {
+    "mi": 12.759518391242105,
+    "rank": "B"
+  },
+  "app\\connectors\\core\\factory\\connector_factory.py": {
+    "mi": 45.32595343152047,
+    "rank": "A"
+  },
+  "app\\connectors\\core\\interfaces\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\core\\interfaces\\connector\\apps.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\core\\interfaces\\event_service\\ievent_service.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\core\\interfaces\\sync_point\\isync_point.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\core\\interfaces\\token_service\\itoken_service.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\core\\registry\\auth_builder.py": {
+    "mi": 59.88241651836915,
+    "rank": "A"
+  },
+  "app\\connectors\\core\\registry\\auth_utils.py": {
+    "mi": 80.25932626477307,
+    "rank": "A"
+  },
+  "app\\connectors\\core\\registry\\connector.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\core\\registry\\connector_builder.py": {
+    "mi": 27.999419179362057,
+    "rank": "A"
+  },
+  "app\\connectors\\core\\registry\\connector_registry.py": {
+    "mi": 21.68512937283199,
+    "rank": "A"
+  },
+  "app\\connectors\\core\\registry\\filters.py": {
+    "mi": 14.43472100123019,
+    "rank": "B"
+  },
+  "app\\connectors\\core\\registry\\folder_scope.py": {
+    "mi": 41.492916512357105,
+    "rank": "A"
+  },
+  "app\\connectors\\core\\registry\\oauth_config_registry.py": {
+    "mi": 49.11369430359698,
+    "rank": "A"
+  },
+  "app\\connectors\\core\\registry\\sync_field_validation.py": {
+    "mi": 55.0261793824901,
+    "rank": "A"
+  },
+  "app\\connectors\\core\\registry\\tool_builder.py": {
+    "mi": 34.60559832615477,
+    "rank": "A"
+  },
+  "app\\connectors\\core\\registry\\types.py": {
+    "mi": 61.88563980791399,
+    "rank": "A"
+  },
+  "app\\connectors\\core\\sync\\full_sync_coverage.py": {
+    "mi": 74.7046478904526,
+    "rank": "A"
+  },
+  "app\\connectors\\core\\sync\\run_context.py": {
+    "mi": 96.98872569862904,
+    "rank": "A"
+  },
+  "app\\connectors\\core\\sync\\sync_coordinator.py": {
+    "mi": 54.334976806250936,
+    "rank": "A"
+  },
+  "app\\connectors\\core\\sync\\sync_dispatcher.py": {
+    "mi": 71.74817657302957,
+    "rank": "A"
+  },
+  "app\\connectors\\core\\sync\\sync_runner.py": {
+    "mi": 31.564006016964726,
+    "rank": "A"
+  },
+  "app\\connectors\\core\\sync\\task_manager.py": {
+    "mi": 61.0523015554194,
+    "rank": "A"
+  },
+  "app\\connectors\\enums\\enums.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\services\\connector_intents.py": {
+    "mi": 73.57979160817563,
+    "rank": "A"
+  },
+  "app\\connectors\\services\\entity_cleanup_intents.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\services\\event_service.py": {
+    "mi": 10.557377002999974,
+    "rank": "B"
+  },
+  "app\\connectors\\services\\kafka_service.py": {
+    "mi": 67.21522846172442,
+    "rank": "A"
+  },
+  "app\\connectors\\services\\storage_release.py": {
+    "mi": 46.88350250841143,
+    "rank": "A"
+  },
+  "app\\connectors\\services\\stored_content_heal.py": {
+    "mi": 43.246496587432006,
+    "rank": "A"
+  },
+  "app\\connectors\\services\\trash_purge.py": {
+    "mi": 15.965430402596738,
+    "rank": "B"
+  },
+  "app\\connectors\\services\\vector_cleanup_events.py": {
+    "mi": 68.87648472014106,
+    "rank": "A"
+  },
+  "app\\connectors\\services\\vector_store_rebuild.py": {
+    "mi": 43.99005141590785,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\atlassian\\confluence_cloud\\block_parser.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\connectors\\sources\\atlassian\\confluence_cloud\\connector.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\connectors\\sources\\atlassian\\confluence_datacenter\\connector.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\connectors\\sources\\atlassian\\confluence_datacenter_personal\\connector.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\connectors\\sources\\atlassian\\core\\apps.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\atlassian\\core\\auth_fields.py": {
+    "mi": 85.62646306663295,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\atlassian\\core\\confluence_access.py": {
+    "mi": 64.95051403912238,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\atlassian\\core\\confluence_dc_removal.py": {
+    "mi": 18.262556195857908,
+    "rank": "B"
+  },
+  "app\\connectors\\sources\\atlassian\\core\\confluence_html.py": {
+    "mi": 46.73732474196911,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\atlassian\\core\\html_utils.py": {
+    "mi": 65.19102368427122,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\atlassian\\core\\jira_issue_security.py": {
+    "mi": 20.571489498898664,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\atlassian\\core\\oauth.py": {
+    "mi": 72.56411845126793,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\atlassian\\core\\read_outcome.py": {
+    "mi": 88.41504723058513,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\atlassian\\jira\\enrichment\\field_discovery.py": {
+    "mi": 43.39752251389429,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\atlassian\\jira\\enrichment\\field_registry.py": {
+    "mi": 62.11901209360442,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\atlassian\\jira\\enrichment\\issue_fetcher.py": {
+    "mi": 37.32668969430754,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\atlassian\\jira\\enrichment\\record_identifiers.py": {
+    "mi": 70.39848134708652,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\atlassian\\jira\\enrichment\\service.py": {
+    "mi": 51.95129864864218,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\atlassian\\jira\\enrichment\\value_formatter.py": {
+    "mi": 8.724133687736114,
+    "rank": "C"
+  },
+  "app\\connectors\\sources\\atlassian\\jira_cloud\\connector.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\connectors\\sources\\atlassian\\jira_cloud_personal\\connector.py": {
+    "mi": 45.36291177167019,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\atlassian\\jira_cloud_personal\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\atlassian\\jira_data_center\\connector.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\connectors\\sources\\atlassian\\jira_data_center_personal\\connector.py": {
+    "mi": 18.324203968163673,
+    "rank": "B"
+  },
+  "app\\connectors\\sources\\atlassian\\jira_data_center_personal\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\azure_blob\\connector.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\connectors\\sources\\azure_blob\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\azure_blob\\common\\apps.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\azure_blob\\common\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\azure_files\\connector.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\connectors\\sources\\azure_files\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\azure_files\\common\\apps.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\azure_files\\common\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\bookstack\\access.py": {
+    "mi": 44.636186589007224,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\bookstack\\connector.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\connectors\\sources\\bookstack\\common\\apps.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\box\\connector.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\connectors\\sources\\box\\example.py": {
+    "mi": 73.04448209383482,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\box\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\box\\common\\apps.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\cifs\\connector.py": {
+    "mi": 39.331295010552495,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\cifs\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\cifs\\common\\apps.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\cifs\\common\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\demo\\connector.py": {
+    "mi": 35.67147698962407,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\demo\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\demo\\harness\\answer_judge.py": {
+    "mi": 35.21742573188475,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\demo\\harness\\kb_harness.py": {
+    "mi": 20.278670026317588,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\dropbox\\access.py": {
+    "mi": 93.61168871993084,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\dropbox\\connector.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\connectors\\sources\\dropbox\\deletes.py": {
+    "mi": 77.99410611142983,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\dropbox\\shared_folders.py": {
+    "mi": 60.40616099684641,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\dropbox\\common\\apps.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\dropbox_individual\\connector.py": {
+    "mi": 19.26523235080938,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\dropbox_individual\\common\\apps.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\drupal_wiki\\connector.py": {
+    "mi": 6.450605150548219,
+    "rank": "C"
+  },
+  "app\\connectors\\sources\\drupal_wiki\\common\\apps.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\github\\connector.py": {
+    "mi": 66.01435818659165,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\github\\common\\apps.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\github_teams\\comments.py": {
+    "mi": 24.89349167114492,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\github_teams\\connector.py": {
+    "mi": 53.38562714420667,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\github_teams\\constants.py": {
+    "mi": 47.73718039549417,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\github_teams\\filters.py": {
+    "mi": 38.22064615467707,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\github_teams\\issues.py": {
+    "mi": 31.615858399998892,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\github_teams\\models.py": {
+    "mi": 82.56015655455079,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\github_teams\\projects.py": {
+    "mi": 42.107482913415254,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\github_teams\\pull_requests.py": {
+    "mi": 42.49026970280675,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\github_teams\\repos.py": {
+    "mi": 10.612118911997845,
+    "rank": "B"
+  },
+  "app\\connectors\\sources\\github_teams\\runtime.py": {
+    "mi": 45.244621120673315,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\github_teams\\streaming.py": {
+    "mi": 57.64923802250512,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\github_teams\\timestamps.py": {
+    "mi": 35.81946381997495,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\github_teams\\users.py": {
+    "mi": 40.56781315483805,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\github_teams\\common\\apps.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\github_teams\\common\\utils.py": {
+    "mi": 78.97722043883226,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\gitlab\\attachments.py": {
+    "mi": 44.83783847835082,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\gitlab\\comments.py": {
+    "mi": 40.0531039930002,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\gitlab\\connector.py": {
+    "mi": 45.47498226078347,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\gitlab\\constants.py": {
+    "mi": 67.8934938764029,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\gitlab\\filters.py": {
+    "mi": 28.861263687825595,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\gitlab\\issues.py": {
+    "mi": 38.42770634838624,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\gitlab\\merge_requests.py": {
+    "mi": 32.625037844697125,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\gitlab\\models.py": {
+    "mi": 82.5633778897188,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\gitlab\\projects.py": {
+    "mi": 26.462403819766372,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\gitlab\\repos.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\connectors\\sources\\gitlab\\runtime.py": {
+    "mi": 49.87245484878245,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\gitlab\\scope.py": {
+    "mi": 60.39148169095732,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\gitlab\\streaming.py": {
+    "mi": 59.07855951155781,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\gitlab\\users.py": {
+    "mi": 30.986778179262586,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\gitlab\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\gitlab\\common\\apps.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\gitlab\\common\\utils.py": {
+    "mi": 91.96732170154482,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\gitlab\\common\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\gitlab_personal\\connector.py": {
+    "mi": 56.976593763744404,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\gitlab_personal\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\gitlab_personal\\common\\apps.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\gitlab_personal\\common\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\google\\common\\apps.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\google\\common\\connector_google_exceptions.py": {
+    "mi": 56.23712136855147,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\google\\common\\datasource_refresh.py": {
+    "mi": 46.63891125823447,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\google\\common\\drive_file_fields.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\google\\common\\gmail_message_parts.py": {
+    "mi": 86.35529974153442,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\google\\common\\gmail_received_date_query.py": {
+    "mi": 77.0344923910905,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\google\\common\\impersonation.py": {
+    "mi": 71.34880987097068,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\google\\common\\scopes.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\google\\drive\\individual\\connector.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\connectors\\sources\\google\\drive\\team\\connector.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\connectors\\sources\\google\\drive\\team\\drive_access.py": {
+    "mi": 76.05080562819165,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\google\\drive\\team\\example.py": {
+    "mi": 65.03611601615769,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\google\\drive\\utils\\drive_export.py": {
+    "mi": 45.138236465461304,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\google\\drive\\utils\\drive_filters.py": {
+    "mi": 55.79395655189895,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\google\\drive\\utils\\drive_full_sync_reconciler.py": {
+    "mi": 45.42008623812681,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\google\\drive\\utils\\drive_mime.py": {
+    "mi": 57.67693852222828,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\google\\drive\\utils\\drive_pagination.py": {
+    "mi": 64.08598872009425,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\google\\drive\\utils\\drive_shortcuts.py": {
+    "mi": 62.8260137638215,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\google\\drive\\utils\\folder_filter_utils.py": {
+    "mi": 32.65885536965766,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\google\\gmail\\talon_utils.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\google\\gmail\\individual\\connector.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\connectors\\sources\\google\\gmail\\team\\connector.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\connectors\\sources\\google\\gmail\\team\\example.py": {
+    "mi": 63.561067303485984,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\google_cloud_storage\\connector.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\connectors\\sources\\google_cloud_storage\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\google_cloud_storage\\common\\apps.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\google_cloud_storage\\common\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\linear\\connector.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\connectors\\sources\\linear\\common\\apps.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\localKB\\connector.py": {
+    "mi": 57.659793194178775,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\localKB\\api\\kb_router.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\connectors\\sources\\localKB\\api\\knowledge_hub_models.py": {
+    "mi": 57.42035245604452,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\localKB\\api\\knowledge_hub_router.py": {
+    "mi": 44.47406008294079,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\localKB\\api\\models.py": {
+    "mi": 37.21781933144015,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\localKB\\handlers\\kb_service.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\connectors\\sources\\localKB\\handlers\\kh_merge.py": {
+    "mi": 61.276735824362824,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\localKB\\handlers\\kh_search.py": {
+    "mi": 50.3952868178776,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\localKB\\handlers\\knowledge_hub_service.py": {
+    "mi": 15.457137258138594,
+    "rank": "B"
+  },
+  "app\\connectors\\sources\\local_fs\\connector.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\connectors\\sources\\local_fs\\models.py": {
+    "mi": 73.51477026884007,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\mariadb\\apps.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\mariadb\\connector.py": {
+    "mi": 2.537890630121337,
+    "rank": "C"
+  },
+  "app\\connectors\\sources\\mariadb\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\microsoft\\common\\admin.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\microsoft\\common\\apps.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\microsoft\\common\\constants.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\microsoft\\common\\content_type_utils.py": {
+    "mi": 56.75763242682123,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\microsoft\\common\\msgraph_client.py": {
+    "mi": 34.3713593084944,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\microsoft\\common\\outlook_constants.py": {
+    "mi": 57.60860248078877,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\microsoft\\onedrive\\connector.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\connectors\\sources\\microsoft\\outlook\\connector.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\connectors\\sources\\microsoft\\outlook_individual\\connector.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\connectors\\sources\\microsoft\\sharepoint_online\\connector.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\connectors\\sources\\microsoft\\sharepoint_online\\utils.py": {
+    "mi": 63.435508150090556,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\minio\\connector.py": {
+    "mi": 65.43643052084501,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\minio\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\minio\\common\\apps.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\minio\\common\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\network_share\\entities_processor.py": {
+    "mi": 62.87088518597895,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\network_share\\entry.py": {
+    "mi": 58.71968963509534,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\network_share\\errors.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\network_share\\filters.py": {
+    "mi": 40.769084225672614,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\network_share\\operations.py": {
+    "mi": 33.9607127265383,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\network_share\\pathing.py": {
+    "mi": 61.597483048671904,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\network_share\\permissions.py": {
+    "mi": 74.03933453534945,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\network_share\\protocol.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\network_share\\record_mapper.py": {
+    "mi": 30.783429530546428,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\network_share\\walker.py": {
+    "mi": 38.341179842935574,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\network_share\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\nextcloud\\connector.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\connectors\\sources\\nextcloud\\example.py": {
+    "mi": 72.96175656345983,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\nextcloud\\common\\apps.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\notion\\block_parser.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\connectors\\sources\\notion\\connector.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\connectors\\sources\\notion\\common\\apps.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\notion_personal\\connector.py": {
+    "mi": 63.80406706342279,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\notion_personal\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\notion_personal\\common\\apps.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\notion_personal\\common\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\postgres\\apps.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\postgres\\connector.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\connectors\\sources\\postgres\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\rss\\connector.py": {
+    "mi": 20.72088719497227,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\rss\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\s3\\base_connector.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\connectors\\sources\\s3\\connector.py": {
+    "mi": 61.75863931812784,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\s3\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\s3\\common\\apps.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\s3\\common\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\salesforce\\connector.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\connectors\\sources\\salesforce\\common\\apps.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\salesforce\\common\\auth_fields.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\servicenow\\common\\apps.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\servicenow\\servicenow\\connector.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\connectors\\sources\\servicenow\\servicenow\\constants.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\slack\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\slack\\common\\apps.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\slack\\common\\stream_errors.py": {
+    "mi": 82.50529625111398,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\slack\\common\\token_renewal.py": {
+    "mi": 46.9828982900856,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\slack\\common\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\slack\\individual\\connector.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\connectors\\sources\\slack\\individual\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\slack\\team\\connector.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\connectors\\sources\\slack\\team\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\smb\\connector.py": {
+    "mi": 38.755396393103005,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\smb\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\smb\\common\\apps.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\smb\\common\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\snowflake\\apps.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\snowflake\\connector.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\connectors\\sources\\snowflake\\data_fetcher.py": {
+    "mi": 8.020084249890548,
+    "rank": "C"
+  },
+  "app\\connectors\\sources\\snowflake\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\web\\address_guard.py": {
+    "mi": 48.852045629124895,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\web\\browser_supervisor.py": {
+    "mi": 43.393770372898295,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\web\\budget.py": {
+    "mi": 50.40649466954351,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\web\\checkpoint.py": {
+    "mi": 70.7500600875534,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\web\\connector.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\connectors\\sources\\web\\crawl4ai_fetcher.py": {
+    "mi": 22.770396508208275,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\web\\csr_detection.py": {
+    "mi": 74.75106027208957,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\web\\fetch_strategy.py": {
+    "mi": 19.729829411959468,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\web\\politeness.py": {
+    "mi": 53.38334929681135,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\web\\robots.py": {
+    "mi": 47.169274025112585,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\web\\sitemaps.py": {
+    "mi": 48.868317329111534,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\web\\url_identity.py": {
+    "mi": 80.34467887768882,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\web\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\zammad\\connector.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\connectors\\sources\\zammad\\common\\apps.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\sources\\zoom\\connector.py": {
+    "mi": 12.096607458396967,
+    "rank": "B"
+  },
+  "app\\connectors\\sources\\zoom\\common\\apps.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\connectors\\utils\\html_utils.py": {
+    "mi": 78.45355555624381,
+    "rank": "A"
+  },
+  "app\\connectors\\utils\\value_mapper.py": {
+    "mi": 54.995446987846854,
+    "rank": "A"
+  },
+  "app\\containers\\connector.py": {
+    "mi": 50.13933868271287,
+    "rank": "A"
+  },
+  "app\\containers\\container.py": {
+    "mi": 83.4691492112268,
+    "rank": "A"
+  },
+  "app\\containers\\docling.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\containers\\extraction.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\containers\\indexing.py": {
+    "mi": 73.7924492252841,
+    "rank": "A"
+  },
+  "app\\containers\\parsing.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\containers\\query.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\containers\\utils\\utils.py": {
+    "mi": 54.51246660182912,
+    "rank": "A"
+  },
+  "app\\core\\celery_app.py": {
+    "mi": 72.20759950900788,
+    "rank": "A"
+  },
+  "app\\core\\signed_url.py": {
+    "mi": 52.28611756550404,
+    "rank": "A"
+  },
+  "app\\core\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\events\\block_prompts.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\events\\dedup.py": {
+    "mi": 67.33950156970779,
+    "rank": "A"
+  },
+  "app\\events\\events.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\events\\processor.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\events\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\exceptions\\embedding_exceptions.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\exceptions\\fastapi_responses.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\exceptions\\graph_db_exceptions.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\exceptions\\indexing_exceptions.py": {
+    "mi": 80.43449191739589,
+    "rank": "A"
+  },
+  "app\\exceptions\\non_retryable.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\exceptions\\storage_exceptions.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\health\\health.py": {
+    "mi": 39.61749401592896,
+    "rank": "A"
+  },
+  "app\\migrations\\all_team_migration.py": {
+    "mi": 65.19862691816914,
+    "rank": "A"
+  },
+  "app\\migrations\\app_org_id_migration.py": {
+    "mi": 70.74951081823752,
+    "rank": "A"
+  },
+  "app\\migrations\\connector_oauth_toolset_fields_migration.py": {
+    "mi": 51.64406068963364,
+    "rank": "A"
+  },
+  "app\\migrations\\folder_mime_type_migration.py": {
+    "mi": 76.13205687069745,
+    "rank": "A"
+  },
+  "app\\migrations\\hierarchy_backfill_migration.py": {
+    "mi": 76.13205687069745,
+    "rank": "A"
+  },
+  "app\\migrations\\kb_apps_migration.py": {
+    "mi": 48.18323418164302,
+    "rank": "A"
+  },
+  "app\\migrations\\kh_listing_state_migration.py": {
+    "mi": 72.87271301106566,
+    "rank": "A"
+  },
+  "app\\migrations\\node_relation_migration.py": {
+    "mi": 69.83454601290764,
+    "rank": "A"
+  },
+  "app\\migrations\\record_link_migration.py": {
+    "mi": 75.0376842590943,
+    "rank": "A"
+  },
+  "app\\migrations\\redundant_group_edges_migration.py": {
+    "mi": 75.0376842590943,
+    "rank": "A"
+  },
+  "app\\migrations\\web_browser_identity_migration.py": {
+    "mi": 57.866883593442,
+    "rank": "A"
+  },
+  "app\\models\\blocks.py": {
+    "mi": 31.30845854722092,
+    "rank": "A"
+  },
+  "app\\models\\entities.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\models\\file.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\models\\graph.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\models\\permission.py": {
+    "mi": 85.2959821175062,
+    "rank": "A"
+  },
+  "app\\models\\_model_rebuild.py": {
+    "mi": 91.69846177031523,
+    "rank": "A"
+  },
+  "app\\models\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\modules\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\modules\\agents\\capability_summary.py": {
+    "mi": 38.19291788851479,
+    "rank": "A"
+  },
+  "app\\modules\\agents\\event_sink.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\modules\\agents\\knowledge_scope.py": {
+    "mi": 46.694843113600996,
+    "rank": "A"
+  },
+  "app\\modules\\agents\\tool_domain.py": {
+    "mi": 86.07333276407168,
+    "rank": "A"
+  },
+  "app\\modules\\agents\\context\\connector_detection.py": {
+    "mi": 86.57115381251388,
+    "rank": "A"
+  },
+  "app\\modules\\agents\\context\\knowledge_context.py": {
+    "mi": 94.35696283043764,
+    "rank": "A"
+  },
+  "app\\modules\\agents\\context\\retrieval_routing.py": {
+    "mi": 95.93911495915277,
+    "rank": "A"
+  },
+  "app\\modules\\agents\\context\\source_catalog.py": {
+    "mi": 48.187725856472994,
+    "rank": "A"
+  },
+  "app\\modules\\agents\\context\\tool_descriptions.py": {
+    "mi": 57.713500844790545,
+    "rank": "A"
+  },
+  "app\\modules\\agents\\context\\tool_names.py": {
+    "mi": 75.38345035259483,
+    "rank": "A"
+  },
+  "app\\modules\\agents\\context\\tool_result_extractor.py": {
+    "mi": 39.69505741611955,
+    "rank": "A"
+  },
+  "app\\modules\\agents\\context\\tool_surface.py": {
+    "mi": 60.75840783328597,
+    "rank": "A"
+  },
+  "app\\modules\\agents\\context\\user_context.py": {
+    "mi": 73.23179940238687,
+    "rank": "A"
+  },
+  "app\\modules\\agents\\context\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\modules\\agents\\models\\models.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\modules\\agents\\prompts\\web_search_template.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\modules\\agents\\prompts\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\modules\\agents\\qna\\chat_state.py": {
+    "mi": 35.615686803683325,
+    "rank": "A"
+  },
+  "app\\modules\\agents\\qna\\conversation_memory.py": {
+    "mi": 56.28761946871037,
+    "rank": "A"
+  },
+  "app\\modules\\agents\\qna\\helpers.py": {
+    "mi": 63.81276727485067,
+    "rank": "A"
+  },
+  "app\\modules\\agents\\qna\\reference_data.py": {
+    "mi": 36.25188221405997,
+    "rank": "A"
+  },
+  "app\\modules\\agents\\qna\\router.py": {
+    "mi": 48.52128536514485,
+    "rank": "A"
+  },
+  "app\\modules\\agents\\qna\\schemas.py": {
+    "mi": 77.16789794640836,
+    "rank": "A"
+  },
+  "app\\modules\\agents\\qna\\tool_system.py": {
+    "mi": 66.75660454570074,
+    "rank": "A"
+  },
+  "app\\modules\\agents\\qna\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\modules\\agents\\record_escalation\\coverage.py": {
+    "mi": 66.74586749246482,
+    "rank": "A"
+  },
+  "app\\modules\\agents\\record_escalation\\models.py": {
+    "mi": 90.47322050176604,
+    "rank": "A"
+  },
+  "app\\modules\\agents\\record_escalation\\policy.py": {
+    "mi": 65.70060257152493,
+    "rank": "A"
+  },
+  "app\\modules\\agents\\record_escalation\\renderer.py": {
+    "mi": 69.50144615039333,
+    "rank": "A"
+  },
+  "app\\modules\\agents\\record_escalation\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\modules\\demo_data\\access.py": {
+    "mi": 44.929808923360824,
+    "rank": "A"
+  },
+  "app\\modules\\demo_data\\chat.py": {
+    "mi": 60.2246154604886,
+    "rank": "A"
+  },
+  "app\\modules\\demo_data\\router.py": {
+    "mi": 61.85185760480184,
+    "rank": "A"
+  },
+  "app\\modules\\demo_data\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\modules\\entity_resolution\\consolidation.py": {
+    "mi": 36.24970091272475,
+    "rank": "A"
+  },
+  "app\\modules\\entity_resolution\\gates.py": {
+    "mi": 62.04240069812201,
+    "rank": "A"
+  },
+  "app\\modules\\entity_resolution\\keys.py": {
+    "mi": 96.52784066085913,
+    "rank": "A"
+  },
+  "app\\modules\\entity_resolution\\languages.py": {
+    "mi": 75.90810202990774,
+    "rank": "A"
+  },
+  "app\\modules\\entity_resolution\\lookup.py": {
+    "mi": 89.13918817648751,
+    "rank": "A"
+  },
+  "app\\modules\\entity_resolution\\models.py": {
+    "mi": 61.99519736227847,
+    "rank": "A"
+  },
+  "app\\modules\\entity_resolution\\normalizer.py": {
+    "mi": 67.39727378766236,
+    "rank": "A"
+  },
+  "app\\modules\\entity_resolution\\prompt.py": {
+    "mi": 64.02262598821255,
+    "rank": "A"
+  },
+  "app\\modules\\entity_resolution\\resolver.py": {
+    "mi": 11.554449305305324,
+    "rank": "B"
+  },
+  "app\\modules\\entity_resolution\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\modules\\extraction\\prompt_template.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\modules\\extraction\\run.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\modules\\extraction\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\modules\\indexing\\connector_off_events.py": {
+    "mi": 38.060555681968914,
+    "rank": "A"
+  },
+  "app\\modules\\indexing\\connector_sweep.py": {
+    "mi": 42.41921445640048,
+    "rank": "A"
+  },
+  "app\\modules\\indexing\\duplicate_reconcile.py": {
+    "mi": 55.20283578203778,
+    "rank": "A"
+  },
+  "app\\modules\\indexing\\entity_index_rebuild.py": {
+    "mi": 21.549789830262007,
+    "rank": "A"
+  },
+  "app\\modules\\indexing\\entity_projection.py": {
+    "mi": 64.12243222684,
+    "rank": "A"
+  },
+  "app\\modules\\indexing\\lane_upkeep.py": {
+    "mi": 46.74979960857709,
+    "rank": "A"
+  },
+  "app\\modules\\indexing\\named_entity_completion.py": {
+    "mi": 48.348134317080444,
+    "rank": "A"
+  },
+  "app\\modules\\indexing\\named_entity_persist_retry.py": {
+    "mi": 65.2660580874725,
+    "rank": "A"
+  },
+  "app\\modules\\indexing\\named_entity_sweep.py": {
+    "mi": 67.27498487261218,
+    "rank": "A"
+  },
+  "app\\modules\\indexing\\rate_limit_deferral.py": {
+    "mi": 64.41255542023035,
+    "rank": "A"
+  },
+  "app\\modules\\indexing\\record_label_repair.py": {
+    "mi": 41.97942467906054,
+    "rank": "A"
+  },
+  "app\\modules\\indexing\\record_republish.py": {
+    "mi": 87.1159307016997,
+    "rank": "A"
+  },
+  "app\\modules\\indexing\\run.py": {
+    "mi": 21.185560894662604,
+    "rank": "A"
+  },
+  "app\\modules\\indexing\\stored_content_cleanup.py": {
+    "mi": 72.315851644595,
+    "rank": "A"
+  },
+  "app\\modules\\indexing\\vector_membership_backfill.py": {
+    "mi": 38.70258958018901,
+    "rank": "A"
+  },
+  "app\\modules\\named_entities\\extractor.py": {
+    "mi": 35.92673472068146,
+    "rank": "A"
+  },
+  "app\\modules\\named_entities\\graph_ops.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\modules\\named_entities\\graph_writer.py": {
+    "mi": 50.58085099981097,
+    "rank": "A"
+  },
+  "app\\modules\\named_entities\\grounding.py": {
+    "mi": 45.6580469509058,
+    "rank": "A"
+  },
+  "app\\modules\\named_entities\\guardrails.py": {
+    "mi": 50.591109620297935,
+    "rank": "A"
+  },
+  "app\\modules\\named_entities\\keys.py": {
+    "mi": 99.35311553813904,
+    "rank": "A"
+  },
+  "app\\modules\\named_entities\\mentions.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\modules\\named_entities\\merge.py": {
+    "mi": 57.67377638042295,
+    "rank": "A"
+  },
+  "app\\modules\\named_entities\\resolution.py": {
+    "mi": 34.14071598818953,
+    "rank": "A"
+  },
+  "app\\modules\\named_entities\\stage.py": {
+    "mi": 49.22008345832163,
+    "rank": "A"
+  },
+  "app\\modules\\named_entities\\sweep.py": {
+    "mi": 54.75699952563488,
+    "rank": "A"
+  },
+  "app\\modules\\named_entities\\text.py": {
+    "mi": 61.215703891506244,
+    "rank": "A"
+  },
+  "app\\modules\\named_entities\\wire.py": {
+    "mi": 73.62469913108778,
+    "rank": "A"
+  },
+  "app\\modules\\named_entities\\write_retry.py": {
+    "mi": 78.28725364244836,
+    "rank": "A"
+  },
+  "app\\modules\\named_entities\\domain\\config.py": {
+    "mi": 68.33428277037426,
+    "rank": "A"
+  },
+  "app\\modules\\named_entities\\domain\\kinds.py": {
+    "mi": 57.36769965908611,
+    "rank": "A"
+  },
+  "app\\modules\\named_entities\\domain\\models.py": {
+    "mi": 42.226047356694224,
+    "rank": "A"
+  },
+  "app\\modules\\named_entities\\domain\\values.py": {
+    "mi": 50.17354352026418,
+    "rank": "A"
+  },
+  "app\\modules\\named_entities\\domain\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\modules\\named_entities\\linking\\candidates.py": {
+    "mi": 49.894672985112884,
+    "rank": "A"
+  },
+  "app\\modules\\named_entities\\linking\\mentions.py": {
+    "mi": 54.5657810193665,
+    "rank": "A"
+  },
+  "app\\modules\\named_entities\\linking\\records.py": {
+    "mi": 45.7963024667434,
+    "rank": "A"
+  },
+  "app\\modules\\named_entities\\linking\\service.py": {
+    "mi": 48.010933275892725,
+    "rank": "A"
+  },
+  "app\\modules\\named_entities\\linking\\verifier.py": {
+    "mi": 51.77278750232316,
+    "rank": "A"
+  },
+  "app\\modules\\named_entities\\linking\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\modules\\named_entities\\normalizers\\contacts.py": {
+    "mi": 64.3330319624398,
+    "rank": "A"
+  },
+  "app\\modules\\named_entities\\normalizers\\dates.py": {
+    "mi": 26.169246637053437,
+    "rank": "A"
+  },
+  "app\\modules\\named_entities\\normalizers\\money.py": {
+    "mi": 51.36579248414739,
+    "rank": "A"
+  },
+  "app\\modules\\named_entities\\normalizers\\names.py": {
+    "mi": 65.51355469400079,
+    "rank": "A"
+  },
+  "app\\modules\\named_entities\\normalizers\\quantities.py": {
+    "mi": 50.67404370817428,
+    "rank": "A"
+  },
+  "app\\modules\\named_entities\\normalizers\\__init__.py": {
+    "mi": 64.3132107569848,
+    "rank": "A"
+  },
+  "app\\modules\\named_entities\\recognizers\\pattern.py": {
+    "mi": 44.87276691578881,
+    "rank": "A"
+  },
+  "app\\modules\\named_entities\\recognizers\\values.py": {
+    "mi": 55.26417292132152,
+    "rank": "A"
+  },
+  "app\\modules\\named_entities\\recognizers\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\modules\\named_entities\\strategies\\agentic.py": {
+    "mi": 39.548579472598284,
+    "rank": "A"
+  },
+  "app\\modules\\named_entities\\strategies\\base.py": {
+    "mi": 58.282681159413706,
+    "rank": "A"
+  },
+  "app\\modules\\named_entities\\strategies\\selector.py": {
+    "mi": 49.4142168256018,
+    "rank": "A"
+  },
+  "app\\modules\\named_entities\\strategies\\single_call.py": {
+    "mi": 34.63467599580848,
+    "rank": "A"
+  },
+  "app\\modules\\named_entities\\strategies\\agent\\prompt.py": {
+    "mi": 76.67894387593343,
+    "rank": "A"
+  },
+  "app\\modules\\named_entities\\strategies\\agent\\staging.py": {
+    "mi": 59.2645017217446,
+    "rank": "A"
+  },
+  "app\\modules\\named_entities\\strategies\\agent\\tools.py": {
+    "mi": 26.44310489374247,
+    "rank": "A"
+  },
+  "app\\modules\\named_entities\\strategies\\agent\\transport.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\modules\\parsers\\link_text.py": {
+    "mi": 36.442519779104074,
+    "rank": "A"
+  },
+  "app\\modules\\parsers\\parse_pool.py": {
+    "mi": 41.263429093045055,
+    "rank": "A"
+  },
+  "app\\modules\\parsers\\parse_worker.py": {
+    "mi": 74.69738774624001,
+    "rank": "A"
+  },
+  "app\\modules\\parsers\\text_decoding.py": {
+    "mi": 75.27731814547117,
+    "rank": "A"
+  },
+  "app\\modules\\parsers\\text_splitting.py": {
+    "mi": 60.4395724272319,
+    "rank": "A"
+  },
+  "app\\modules\\parsers\\blocks\\blocks_parser.py": {
+    "mi": 47.105355734849084,
+    "rank": "A"
+  },
+  "app\\modules\\parsers\\code_parser\\code_file_parser.py": {
+    "mi": 41.81659375769011,
+    "rank": "A"
+  },
+  "app\\modules\\parsers\\code_parser\\engine.py": {
+    "mi": 22.702740306235068,
+    "rank": "A"
+  },
+  "app\\modules\\parsers\\code_parser\\file_role.py": {
+    "mi": 57.979781952304165,
+    "rank": "A"
+  },
+  "app\\modules\\parsers\\code_parser\\lang_config.py": {
+    "mi": 56.12752159653507,
+    "rank": "A"
+  },
+  "app\\modules\\parsers\\code_parser\\models.py": {
+    "mi": 82.43553000453818,
+    "rank": "A"
+  },
+  "app\\modules\\parsers\\code_parser\\routing.py": {
+    "mi": 63.17175010852558,
+    "rank": "A"
+  },
+  "app\\modules\\parsers\\code_parser\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\modules\\parsers\\csv\\csv_parser.py": {
+    "mi": 24.81485985498806,
+    "rank": "A"
+  },
+  "app\\modules\\parsers\\csv\\table_detection.py": {
+    "mi": 64.77211903348369,
+    "rank": "A"
+  },
+  "app\\modules\\parsers\\docx\\docparser.py": {
+    "mi": 78.72836366602705,
+    "rank": "A"
+  },
+  "app\\modules\\parsers\\epub\\epub_parser.py": {
+    "mi": 91.83470802999825,
+    "rank": "A"
+  },
+  "app\\modules\\parsers\\epub\\epub_reader.py": {
+    "mi": 14.903479338270722,
+    "rank": "B"
+  },
+  "app\\modules\\parsers\\excel\\excel_parser.py": {
+    "mi": 11.38117610555636,
+    "rank": "B"
+  },
+  "app\\modules\\parsers\\excel\\prompt_template.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\modules\\parsers\\excel\\xls_parser.py": {
+    "mi": 81.14730355641724,
+    "rank": "A"
+  },
+  "app\\modules\\parsers\\html_parser\\docling_html_parser.py": {
+    "mi": 68.39299373877412,
+    "rank": "A"
+  },
+  "app\\modules\\parsers\\html_parser\\html_parser.py": {
+    "mi": 90.23060378825423,
+    "rank": "A"
+  },
+  "app\\modules\\parsers\\html_parser\\html_to_blocks.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\modules\\parsers\\html_parser\\selectolax_html_parser.py": {
+    "mi": 73.75726744952875,
+    "rank": "A"
+  },
+  "app\\modules\\parsers\\html_parser\\url_utils.py": {
+    "mi": 55.898322468824205,
+    "rank": "A"
+  },
+  "app\\modules\\parsers\\image_parser\\image_parser.py": {
+    "mi": 42.08932016475777,
+    "rank": "A"
+  },
+  "app\\modules\\parsers\\json\\json_parser.py": {
+    "mi": 45.34232214749526,
+    "rank": "A"
+  },
+  "app\\modules\\parsers\\json\\structured_data_utils.py": {
+    "mi": 69.75518657513332,
+    "rank": "A"
+  },
+  "app\\modules\\parsers\\json\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\modules\\parsers\\markdown\\docling_markdown_parser.py": {
+    "mi": 75.84091885151432,
+    "rank": "A"
+  },
+  "app\\modules\\parsers\\markdown\\image_references.py": {
+    "mi": 67.28008440303043,
+    "rank": "A"
+  },
+  "app\\modules\\parsers\\markdown\\markdown_it_parser.py": {
+    "mi": 83.89508148600237,
+    "rank": "A"
+  },
+  "app\\modules\\parsers\\markdown\\markdown_parser.py": {
+    "mi": 91.05705514918633,
+    "rank": "A"
+  },
+  "app\\modules\\parsers\\markdown\\markdown_to_blocks.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\modules\\parsers\\markdown\\mdx_parser.py": {
+    "mi": 73.89638015567971,
+    "rank": "A"
+  },
+  "app\\modules\\parsers\\pdf\\docling_processor.py": {
+    "mi": 62.025632085934944,
+    "rank": "A"
+  },
+  "app\\modules\\parsers\\pdf\\ocr_handler.py": {
+    "mi": 56.91021044072751,
+    "rank": "A"
+  },
+  "app\\modules\\parsers\\pdf\\opencv_layout_analyzer.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\modules\\parsers\\pdf\\pdfplumber_opencv_processor.py": {
+    "mi": 35.57410985706628,
+    "rank": "A"
+  },
+  "app\\modules\\parsers\\pdf\\pdf_rasterizer.py": {
+    "mi": 50.99010496716501,
+    "rank": "A"
+  },
+  "app\\modules\\parsers\\pdf\\vlm_ocr_strategy.py": {
+    "mi": 46.36120949401732,
+    "rank": "A"
+  },
+  "app\\modules\\parsers\\pptx\\pptx_parser.py": {
+    "mi": 89.08175967140274,
+    "rank": "A"
+  },
+  "app\\modules\\parsers\\pptx\\ppt_parser.py": {
+    "mi": 78.64411997808556,
+    "rank": "A"
+  },
+  "app\\modules\\parsers\\sql\\sql_table_parser.py": {
+    "mi": 36.73384318813236,
+    "rank": "A"
+  },
+  "app\\modules\\parsers\\sql\\sql_view_parser.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\modules\\parsers\\sql\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\modules\\parsers\\yaml\\structural_yaml_parser.py": {
+    "mi": 16.490633539561077,
+    "rank": "B"
+  },
+  "app\\modules\\parsers\\yaml\\template_dialect.py": {
+    "mi": 55.899558631944075,
+    "rank": "A"
+  },
+  "app\\modules\\parsers\\yaml\\yaml_parser.py": {
+    "mi": 67.89092551585817,
+    "rank": "A"
+  },
+  "app\\modules\\parsers\\yaml\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\modules\\qna\\prompt_templates.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\modules\\reconciliation\\service.py": {
+    "mi": 64.97341933867034,
+    "rank": "A"
+  },
+  "app\\modules\\reconciliation\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\modules\\reranker\\reranker.py": {
+    "mi": 69.27736535970729,
+    "rank": "A"
+  },
+  "app\\modules\\retrieval\\entity_filters.py": {
+    "mi": 43.21629206074227,
+    "rank": "A"
+  },
+  "app\\modules\\retrieval\\entity_permissions.py": {
+    "mi": 16.32842450782849,
+    "rank": "B"
+  },
+  "app\\modules\\retrieval\\lexical_search.py": {
+    "mi": 87.67337720910751,
+    "rank": "A"
+  },
+  "app\\modules\\retrieval\\provenance.py": {
+    "mi": 74.76403940283949,
+    "rank": "A"
+  },
+  "app\\modules\\retrieval\\record_cut.py": {
+    "mi": 59.26065708212636,
+    "rank": "A"
+  },
+  "app\\modules\\retrieval\\result_merging.py": {
+    "mi": 63.25825323444401,
+    "rank": "A"
+  },
+  "app\\modules\\retrieval\\retrieval_service.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\modules\\retrieval\\selection_scope.py": {
+    "mi": 42.89739523653912,
+    "rank": "A"
+  },
+  "app\\modules\\retrieval\\context\\builder.py": {
+    "mi": 69.52990880827376,
+    "rank": "A"
+  },
+  "app\\modules\\retrieval\\context\\neighbours.py": {
+    "mi": 65.92758611996395,
+    "rank": "A"
+  },
+  "app\\modules\\retrieval\\context\\ordering.py": {
+    "mi": 89.34447416675779,
+    "rank": "A"
+  },
+  "app\\modules\\retrieval\\context\\ranking.py": {
+    "mi": 92.8676921362462,
+    "rank": "A"
+  },
+  "app\\modules\\retrieval\\context\\renderer.py": {
+    "mi": 47.76637392799197,
+    "rank": "A"
+  },
+  "app\\modules\\retrieval\\context\\targeted.py": {
+    "mi": 44.599108079353044,
+    "rank": "A"
+  },
+  "app\\modules\\retrieval\\context\\units.py": {
+    "mi": 57.16889032688403,
+    "rank": "A"
+  },
+  "app\\modules\\retrieval\\context\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\modules\\transformers\\blob_storage.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\modules\\transformers\\block_container_validator.py": {
+    "mi": 18.70554886628173,
+    "rank": "B"
+  },
+  "app\\modules\\transformers\\document_extraction.py": {
+    "mi": 29.72828941826329,
+    "rank": "A"
+  },
+  "app\\modules\\transformers\\edge_reconciler.py": {
+    "mi": 64.82962444410443,
+    "rank": "A"
+  },
+  "app\\modules\\transformers\\entity_vectorstore.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\modules\\transformers\\graphdb.py": {
+    "mi": 33.94401176636667,
+    "rank": "A"
+  },
+  "app\\modules\\transformers\\image_description.py": {
+    "mi": 50.181394308429894,
+    "rank": "A"
+  },
+  "app\\modules\\transformers\\pipeline.py": {
+    "mi": 52.809575264318724,
+    "rank": "A"
+  },
+  "app\\modules\\transformers\\sink_orchestrator.py": {
+    "mi": 29.305337793917403,
+    "rank": "A"
+  },
+  "app\\modules\\transformers\\transformer.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\modules\\transformers\\vectorstore.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\sandbox\\artifact_cleanup.py": {
+    "mi": 56.50245125879452,
+    "rank": "A"
+  },
+  "app\\sandbox\\artifact_upload.py": {
+    "mi": 51.94790251171822,
+    "rank": "A"
+  },
+  "app\\sandbox\\base_executor.py": {
+    "mi": 80.89716796894396,
+    "rank": "A"
+  },
+  "app\\sandbox\\docker_executor.py": {
+    "mi": 42.5213219615609,
+    "rank": "A"
+  },
+  "app\\sandbox\\docker_proxy.py": {
+    "mi": 5.521047144610149,
+    "rank": "C"
+  },
+  "app\\sandbox\\local_executor.py": {
+    "mi": 46.643400634908474,
+    "rank": "A"
+  },
+  "app\\sandbox\\manager.py": {
+    "mi": 83.33247910856498,
+    "rank": "A"
+  },
+  "app\\sandbox\\models.py": {
+    "mi": 72.16959527841846,
+    "rank": "A"
+  },
+  "app\\sandbox\\package_policy.py": {
+    "mi": 72.57394854802288,
+    "rank": "A"
+  },
+  "app\\sandbox\\redact.py": {
+    "mi": 86.19249189914319,
+    "rank": "A"
+  },
+  "app\\sandbox\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\schema\\node_schema_registry.py": {
+    "mi": 82.72112277886382,
+    "rank": "A"
+  },
+  "app\\schema\\node_validator.py": {
+    "mi": 66.78927440724837,
+    "rank": "A"
+  },
+  "app\\schema\\arango\\documents.py": {
+    "mi": 78.80712296045034,
+    "rank": "A"
+  },
+  "app\\schema\\arango\\edges.py": {
+    "mi": 76.7373994114343,
+    "rank": "A"
+  },
+  "app\\schema\\arango\\graph.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\scripts\\connector_deletion_integration_test.py": {
+    "mi": 21.049710948142913,
+    "rank": "A"
+  },
+  "app\\scripts\\kg_taxonomy.py": {
+    "mi": 52.90659417559818,
+    "rank": "A"
+  },
+  "app\\scripts\\named_entity_reextract.py": {
+    "mi": 54.93020094312357,
+    "rank": "A"
+  },
+  "app\\services\\base_client.py": {
+    "mi": 37.32486659231324,
+    "rank": "A"
+  },
+  "app\\services\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\services\\ai_models\\openai_catalog.py": {
+    "mi": 63.312121104643346,
+    "rank": "A"
+  },
+  "app\\services\\ai_models\\decision\\clients.py": {
+    "mi": 25.376172983194362,
+    "rank": "A"
+  },
+  "app\\services\\ai_models\\decision\\factory.py": {
+    "mi": 62.41590369283923,
+    "rank": "A"
+  },
+  "app\\services\\ai_models\\decision\\types.py": {
+    "mi": 69.24868199882482,
+    "rank": "A"
+  },
+  "app\\services\\ai_models\\decision\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\services\\ai_models\\discovery\\cache.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\services\\ai_models\\discovery\\catalog.py": {
+    "mi": 70.39377184744392,
+    "rank": "A"
+  },
+  "app\\services\\ai_models\\discovery\\classifier.py": {
+    "mi": 49.930230665490996,
+    "rank": "A"
+  },
+  "app\\services\\ai_models\\discovery\\http.py": {
+    "mi": 37.84600611933064,
+    "rank": "A"
+  },
+  "app\\services\\ai_models\\discovery\\registry.py": {
+    "mi": 60.10255746822233,
+    "rank": "A"
+  },
+  "app\\services\\ai_models\\discovery\\service.py": {
+    "mi": 51.37996421842637,
+    "rank": "A"
+  },
+  "app\\services\\ai_models\\discovery\\strategies.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\services\\ai_models\\discovery\\types.py": {
+    "mi": 58.781739531032706,
+    "rank": "A"
+  },
+  "app\\services\\ai_models\\discovery\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\services\\artifact_registry\\access.py": {
+    "mi": 71.85759559768584,
+    "rank": "A"
+  },
+  "app\\services\\artifact_registry\\gallery.py": {
+    "mi": 31.157910707012046,
+    "rank": "A"
+  },
+  "app\\services\\artifact_registry\\lineage.py": {
+    "mi": 75.4396963744464,
+    "rank": "A"
+  },
+  "app\\services\\artifact_registry\\models.py": {
+    "mi": 71.73645857481338,
+    "rank": "A"
+  },
+  "app\\services\\artifact_registry\\registry.py": {
+    "mi": 42.65069003268276,
+    "rank": "A"
+  },
+  "app\\services\\artifact_registry\\sharing.py": {
+    "mi": 48.20345067114906,
+    "rank": "A"
+  },
+  "app\\services\\artifact_registry\\signed_urls.py": {
+    "mi": 74.56911927678857,
+    "rank": "A"
+  },
+  "app\\services\\artifact_registry\\versioning.py": {
+    "mi": 49.95970278986096,
+    "rank": "A"
+  },
+  "app\\services\\artifact_registry\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\services\\cache\\accessible_records_cache.py": {
+    "mi": 22.628731999115534,
+    "rank": "A"
+  },
+  "app\\services\\cache\\interface.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\services\\cache\\invalidation_hooks.py": {
+    "mi": 75.36925350298895,
+    "rank": "A"
+  },
+  "app\\services\\cache\\redis_signed_url_cache.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\services\\cache\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\services\\distributed\\interface.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\services\\distributed\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\services\\docling\\client.py": {
+    "mi": 53.57508511139563,
+    "rank": "A"
+  },
+  "app\\services\\docling\\docling_service.py": {
+    "mi": 59.443774615036176,
+    "rank": "A"
+  },
+  "app\\services\\docling\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\services\\embeddings\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\services\\embeddings\\multimodal\\bedrock_provider.py": {
+    "mi": 64.61754115449237,
+    "rank": "A"
+  },
+  "app\\services\\embeddings\\multimodal\\cohere_provider.py": {
+    "mi": 77.34806703714118,
+    "rank": "A"
+  },
+  "app\\services\\embeddings\\multimodal\\config.py": {
+    "mi": 80.40787411353566,
+    "rank": "A"
+  },
+  "app\\services\\embeddings\\multimodal\\factory.py": {
+    "mi": 84.62597803938262,
+    "rank": "A"
+  },
+  "app\\services\\embeddings\\multimodal\\gemini_provider.py": {
+    "mi": 71.11022627102773,
+    "rank": "A"
+  },
+  "app\\services\\embeddings\\multimodal\\interface.py": {
+    "mi": 76.21383379126965,
+    "rank": "A"
+  },
+  "app\\services\\embeddings\\multimodal\\jina_provider.py": {
+    "mi": 61.70420284702474,
+    "rank": "A"
+  },
+  "app\\services\\embeddings\\multimodal\\ollama_provider.py": {
+    "mi": 81.03672545241353,
+    "rank": "A"
+  },
+  "app\\services\\embeddings\\multimodal\\openai_compat_provider.py": {
+    "mi": 64.07722219429313,
+    "rank": "A"
+  },
+  "app\\services\\embeddings\\multimodal\\voyage_provider.py": {
+    "mi": 74.86249503612906,
+    "rank": "A"
+  },
+  "app\\services\\embeddings\\multimodal\\_response.py": {
+    "mi": 77.33318907437076,
+    "rank": "A"
+  },
+  "app\\services\\embeddings\\multimodal\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\services\\extraction\\client.py": {
+    "mi": 61.284294772849584,
+    "rank": "A"
+  },
+  "app\\services\\extraction\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\services\\featureflag\\featureflag.py": {
+    "mi": 73.54855783200873,
+    "rank": "A"
+  },
+  "app\\services\\featureflag\\platform_settings.py": {
+    "mi": 77.40759231445303,
+    "rank": "A"
+  },
+  "app\\services\\featureflag\\config\\config.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\services\\featureflag\\example\\example.py": {
+    "mi": 71.31392542791153,
+    "rank": "A"
+  },
+  "app\\services\\featureflag\\interfaces\\config.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\services\\featureflag\\provider\\env.py": {
+    "mi": 77.58190631857705,
+    "rank": "A"
+  },
+  "app\\services\\featureflag\\provider\\etcd.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\services\\graph_db\\entity_index_queries.py": {
+    "mi": 61.53951613866738,
+    "rank": "A"
+  },
+  "app\\services\\graph_db\\graph_db_factory.py": {
+    "mi": 92.65831374368621,
+    "rank": "A"
+  },
+  "app\\services\\graph_db\\graph_db_provider_factory.py": {
+    "mi": 74.12878277345035,
+    "rank": "A"
+  },
+  "app\\services\\graph_db\\taxonomy.py": {
+    "mi": 49.2996850938488,
+    "rank": "A"
+  },
+  "app\\services\\graph_db\\user_email_identity.py": {
+    "mi": 70.5552234933453,
+    "rank": "A"
+  },
+  "app\\services\\graph_db\\vector_membership_queries.py": {
+    "mi": 90.355558834357,
+    "rank": "A"
+  },
+  "app\\services\\graph_db\\arango\\arango.py": {
+    "mi": 36.59660799855878,
+    "rank": "A"
+  },
+  "app\\services\\graph_db\\arango\\arango_http_client.py": {
+    "mi": 25.134211608279955,
+    "rank": "A"
+  },
+  "app\\services\\graph_db\\arango\\arango_http_provider.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\services\\graph_db\\arango\\config.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\services\\graph_db\\common\\full_sync_unlink.py": {
+    "mi": 70.61382275038663,
+    "rank": "A"
+  },
+  "app\\services\\graph_db\\common\\record_visibility.py": {
+    "mi": 66.95306471172916,
+    "rank": "A"
+  },
+  "app\\services\\graph_db\\common\\utils.py": {
+    "mi": 45.11887718847307,
+    "rank": "A"
+  },
+  "app\\services\\graph_db\\interface\\graph_db.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\services\\graph_db\\interface\\graph_db_provider.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\services\\graph_db\\neo4j\\kh_scope.py": {
+    "mi": 13.188814636710136,
+    "rank": "B"
+  },
+  "app\\services\\graph_db\\neo4j\\neo4j_client.py": {
+    "mi": 36.957723469334745,
+    "rank": "A"
+  },
+  "app\\services\\graph_db\\neo4j\\neo4j_provider.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\services\\key_value\\key_value_factory.py": {
+    "mi": 93.1663943862503,
+    "rank": "A"
+  },
+  "app\\services\\key_value\\interface\\key_value.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\services\\key_value\\redis\\redis.py": {
+    "mi": 60.75274455755908,
+    "rank": "A"
+  },
+  "app\\services\\messaging\\backpressure.py": {
+    "mi": 72.57795821045823,
+    "rank": "A"
+  },
+  "app\\services\\messaging\\config.py": {
+    "mi": 45.07003734240138,
+    "rank": "A"
+  },
+  "app\\services\\messaging\\connector_off.py": {
+    "mi": 81.31493134301793,
+    "rank": "A"
+  },
+  "app\\services\\messaging\\consumer_concurrency.py": {
+    "mi": 30.66486182292942,
+    "rank": "A"
+  },
+  "app\\services\\messaging\\disposition.py": {
+    "mi": 85.4173401006375,
+    "rank": "A"
+  },
+  "app\\services\\messaging\\distributed_concurrency.py": {
+    "mi": 53.318722069047986,
+    "rank": "A"
+  },
+  "app\\services\\messaging\\error_classifier.py": {
+    "mi": 49.6415641986496,
+    "rank": "A"
+  },
+  "app\\services\\messaging\\lease.py": {
+    "mi": 63.38918537086274,
+    "rank": "A"
+  },
+  "app\\services\\messaging\\messaging_factory.py": {
+    "mi": 60.234745423262964,
+    "rank": "A"
+  },
+  "app\\services\\messaging\\redis_client.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\services\\messaging\\redis_errors.py": {
+    "mi": 94.18737123758973,
+    "rank": "A"
+  },
+  "app\\services\\messaging\\retry_manager.py": {
+    "mi": 56.00787796290094,
+    "rank": "A"
+  },
+  "app\\services\\messaging\\utils.py": {
+    "mi": 60.93666543021466,
+    "rank": "A"
+  },
+  "app\\services\\messaging\\interface\\admin.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\services\\messaging\\interface\\consumer.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\services\\messaging\\interface\\messaging_service.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\services\\messaging\\interface\\producer.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\services\\messaging\\kafka\\topics.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\services\\messaging\\kafka\\config\\kafka_config.py": {
+    "mi": 83.63091383403643,
+    "rank": "A"
+  },
+  "app\\services\\messaging\\kafka\\consumer\\backlog.py": {
+    "mi": 69.05705373321527,
+    "rank": "A"
+  },
+  "app\\services\\messaging\\kafka\\consumer\\consumer.py": {
+    "mi": 38.290686376864976,
+    "rank": "A"
+  },
+  "app\\services\\messaging\\kafka\\consumer\\indexing_consumer.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\services\\messaging\\kafka\\consumer\\remembered.py": {
+    "mi": 53.35395009424717,
+    "rank": "A"
+  },
+  "app\\services\\messaging\\kafka\\handlers\\ai_config.py": {
+    "mi": 81.4625203181399,
+    "rank": "A"
+  },
+  "app\\services\\messaging\\kafka\\handlers\\entity.py": {
+    "mi": 26.122398966339805,
+    "rank": "A"
+  },
+  "app\\services\\messaging\\kafka\\handlers\\record.py": {
+    "mi": 3.2084839693083884,
+    "rank": "C"
+  },
+  "app\\services\\messaging\\kafka\\producer\\producer.py": {
+    "mi": 52.734196426618055,
+    "rank": "A"
+  },
+  "app\\services\\messaging\\kafka\\utils\\utils.py": {
+    "mi": 52.066304615378264,
+    "rank": "A"
+  },
+  "app\\services\\messaging\\lanes\\assignment.py": {
+    "mi": 24.931816318113754,
+    "rank": "A"
+  },
+  "app\\services\\messaging\\lanes\\assignment_policy.py": {
+    "mi": 67.22793689160319,
+    "rank": "A"
+  },
+  "app\\services\\messaging\\lanes\\backlog.py": {
+    "mi": 74.5797848121416,
+    "rank": "A"
+  },
+  "app\\services\\messaging\\lanes\\hash_router.py": {
+    "mi": 78.26180054501921,
+    "rank": "A"
+  },
+  "app\\services\\messaging\\lanes\\interface.py": {
+    "mi": 71.74411711001314,
+    "rank": "A"
+  },
+  "app\\services\\messaging\\lanes\\lifecycle.py": {
+    "mi": 71.99438159037261,
+    "rank": "A"
+  },
+  "app\\services\\messaging\\lanes\\producer.py": {
+    "mi": 63.69534889050768,
+    "rank": "A"
+  },
+  "app\\services\\messaging\\lanes\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\services\\messaging\\redis_streams\\admin.py": {
+    "mi": 69.20393919671528,
+    "rank": "A"
+  },
+  "app\\services\\messaging\\redis_streams\\backlog.py": {
+    "mi": 78.97399365388256,
+    "rank": "A"
+  },
+  "app\\services\\messaging\\redis_streams\\consumer.py": {
+    "mi": 39.05220348347955,
+    "rank": "A"
+  },
+  "app\\services\\messaging\\redis_streams\\indexing_consumer.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\services\\messaging\\redis_streams\\producer.py": {
+    "mi": 55.81927031434001,
+    "rank": "A"
+  },
+  "app\\services\\messaging\\redis_streams\\stream_read_planner.py": {
+    "mi": 94.83279306283833,
+    "rank": "A"
+  },
+  "app\\services\\messaging\\redis_streams\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\services\\messaging\\scheduling\\drr_scheduler.py": {
+    "mi": 43.45737241586323,
+    "rank": "A"
+  },
+  "app\\services\\messaging\\scheduling\\interface.py": {
+    "mi": 57.56651710044874,
+    "rank": "A"
+  },
+  "app\\services\\messaging\\scheduling\\key_extractors.py": {
+    "mi": 83.50919459501154,
+    "rank": "A"
+  },
+  "app\\services\\messaging\\scheduling\\offset_tracker.py": {
+    "mi": 57.7903790185219,
+    "rank": "A"
+  },
+  "app\\services\\messaging\\scheduling\\slot_share.py": {
+    "mi": 65.4766092821192,
+    "rank": "A"
+  },
+  "app\\services\\messaging\\scheduling\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\services\\notification\\notification_service.py": {
+    "mi": 79.60217029829539,
+    "rank": "A"
+  },
+  "app\\services\\notification\\types.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\services\\notification\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\services\\parsing\\client.py": {
+    "mi": 54.96440240878178,
+    "rank": "A"
+  },
+  "app\\services\\parsing\\interface.py": {
+    "mi": 75.26579655500053,
+    "rank": "A"
+  },
+  "app\\services\\parsing\\registry.py": {
+    "mi": 65.28497549979919,
+    "rank": "A"
+  },
+  "app\\services\\parsing\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\services\\parsing\\providers\\docling_service_parser.py": {
+    "mi": 65.47429047788003,
+    "rank": "A"
+  },
+  "app\\services\\parsing\\providers\\local_docling_parser.py": {
+    "mi": 69.23641041884936,
+    "rank": "A"
+  },
+  "app\\services\\parsing\\providers\\ocr_parser.py": {
+    "mi": 43.33812096861714,
+    "rank": "A"
+  },
+  "app\\services\\parsing\\providers\\pdfplumber_parser.py": {
+    "mi": 65.93651308580097,
+    "rank": "A"
+  },
+  "app\\services\\parsing\\providers\\smart_pdf_parser.py": {
+    "mi": 71.80234996975123,
+    "rank": "A"
+  },
+  "app\\services\\parsing\\providers\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\services\\record_content\\authorizer.py": {
+    "mi": 82.89100683028518,
+    "rank": "A"
+  },
+  "app\\services\\record_content\\interface.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\services\\record_content\\models.py": {
+    "mi": 86.96318913634309,
+    "rank": "A"
+  },
+  "app\\services\\record_content\\resolver.py": {
+    "mi": 73.55280357432984,
+    "rank": "A"
+  },
+  "app\\services\\record_content\\strategies.py": {
+    "mi": 47.63087787725271,
+    "rank": "A"
+  },
+  "app\\services\\record_content\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\services\\redis\\cluster_provider.py": {
+    "mi": 57.21055258641733,
+    "rank": "A"
+  },
+  "app\\services\\redis\\config.py": {
+    "mi": 62.11702458175845,
+    "rank": "A"
+  },
+  "app\\services\\redis\\connection_provider.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\services\\redis\\connection_provider_factory.py": {
+    "mi": 62.902515815660195,
+    "rank": "A"
+  },
+  "app\\services\\redis\\loop_clients.py": {
+    "mi": 70.85624950286494,
+    "rank": "A"
+  },
+  "app\\services\\redis\\standalone_provider.py": {
+    "mi": 50.70781254973014,
+    "rank": "A"
+  },
+  "app\\services\\redis\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\services\\resource_governor\\admission.py": {
+    "mi": 78.26525481105709,
+    "rank": "A"
+  },
+  "app\\services\\resource_governor\\controller.py": {
+    "mi": 45.37954314334308,
+    "rank": "A"
+  },
+  "app\\services\\resource_governor\\feedback.py": {
+    "mi": 66.68331189541975,
+    "rank": "A"
+  },
+  "app\\services\\resource_governor\\gate.py": {
+    "mi": 50.88400760896777,
+    "rank": "A"
+  },
+  "app\\services\\resource_governor\\models.py": {
+    "mi": 52.32409917824114,
+    "rank": "A"
+  },
+  "app\\services\\resource_governor\\policy.py": {
+    "mi": 32.02845707933891,
+    "rank": "A"
+  },
+  "app\\services\\resource_governor\\probe.py": {
+    "mi": 27.698729824529437,
+    "rank": "A"
+  },
+  "app\\services\\resource_governor\\registry.py": {
+    "mi": 87.9550556426318,
+    "rank": "A"
+  },
+  "app\\services\\resource_governor\\shared_slots.py": {
+    "mi": 59.03854721360883,
+    "rank": "A"
+  },
+  "app\\services\\resource_governor\\tiers.py": {
+    "mi": 77.33421525850727,
+    "rank": "A"
+  },
+  "app\\services\\resource_governor\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\services\\skills\\npm_command_parser.py": {
+    "mi": 53.484085483586746,
+    "rank": "A"
+  },
+  "app\\services\\skills\\package_importer.py": {
+    "mi": 30.037043073512233,
+    "rank": "A"
+  },
+  "app\\services\\skills\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\services\\vector_db\\collections.py": {
+    "mi": 75.27692635582814,
+    "rank": "A"
+  },
+  "app\\services\\vector_db\\collection_locator.py": {
+    "mi": 73.86003686966109,
+    "rank": "A"
+  },
+  "app\\services\\vector_db\\collection_manifest.py": {
+    "mi": 65.5873902119179,
+    "rank": "A"
+  },
+  "app\\services\\vector_db\\collection_registry.py": {
+    "mi": 46.87592260985295,
+    "rank": "A"
+  },
+  "app\\services\\vector_db\\filters.py": {
+    "mi": 69.62418414259349,
+    "rank": "A"
+  },
+  "app\\services\\vector_db\\membership.py": {
+    "mi": 35.18203416003227,
+    "rank": "A"
+  },
+  "app\\services\\vector_db\\models.py": {
+    "mi": 50.17104453525591,
+    "rank": "A"
+  },
+  "app\\services\\vector_db\\rebuild_state.py": {
+    "mi": 64.39523160509518,
+    "rank": "A"
+  },
+  "app\\services\\vector_db\\search_retry.py": {
+    "mi": 65.78359153898099,
+    "rank": "A"
+  },
+  "app\\services\\vector_db\\sparse_embeddings.py": {
+    "mi": 70.33837373481228,
+    "rank": "A"
+  },
+  "app\\services\\vector_db\\strategy.py": {
+    "mi": 63.630485213736925,
+    "rank": "A"
+  },
+  "app\\services\\vector_db\\strategy_resolver.py": {
+    "mi": 76.83460848303102,
+    "rank": "A"
+  },
+  "app\\services\\vector_db\\vector_db_factory.py": {
+    "mi": 80.55364040507656,
+    "rank": "A"
+  },
+  "app\\services\\vector_db\\vector_db_provider_factory.py": {
+    "mi": 76.29262246308906,
+    "rank": "A"
+  },
+  "app\\services\\vector_db\\const\\const.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\services\\vector_db\\interface\\vector_db.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\services\\vector_db\\opensearch\\config.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\services\\vector_db\\opensearch\\errors.py": {
+    "mi": 94.5576057528879,
+    "rank": "A"
+  },
+  "app\\services\\vector_db\\opensearch\\opensearch.py": {
+    "mi": 28.963746274695886,
+    "rank": "A"
+  },
+  "app\\services\\vector_db\\opensearch\\utils.py": {
+    "mi": 51.74658348502543,
+    "rank": "A"
+  },
+  "app\\services\\vector_db\\qdrant\\config.py": {
+    "mi": 78.4089234170114,
+    "rank": "A"
+  },
+  "app\\services\\vector_db\\qdrant\\errors.py": {
+    "mi": 90.68294818194153,
+    "rank": "A"
+  },
+  "app\\services\\vector_db\\qdrant\\filter.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\services\\vector_db\\qdrant\\memory_sizing.py": {
+    "mi": 51.72945712965771,
+    "rank": "A"
+  },
+  "app\\services\\vector_db\\qdrant\\qdrant.py": {
+    "mi": 23.118844062036814,
+    "rank": "A"
+  },
+  "app\\services\\vector_db\\qdrant\\utils.py": {
+    "mi": 51.13423257444548,
+    "rank": "A"
+  },
+  "app\\services\\vector_db\\redis\\config.py": {
+    "mi": 77.94419408950597,
+    "rank": "A"
+  },
+  "app\\services\\vector_db\\redis\\errors.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\services\\vector_db\\redis\\redis_vector.py": {
+    "mi": 14.073746377076032,
+    "rank": "B"
+  },
+  "app\\services\\vector_db\\redis\\utils.py": {
+    "mi": 40.26361888860687,
+    "rank": "A"
+  },
+  "app\\services\\vector_db\\redis\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\services\\vector_db\\strategies\\per_connector_type.py": {
+    "mi": 72.65052362015734,
+    "rank": "A"
+  },
+  "app\\services\\vector_db\\strategies\\single.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\services\\vector_db\\strategies\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\sources\\client\\iclient.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\sources\\client\\resilience.py": {
+    "mi": 51.21735734351742,
+    "rank": "A"
+  },
+  "app\\sources\\client\\airtable\\airtable.py": {
+    "mi": 58.46248720305853,
+    "rank": "A"
+  },
+  "app\\sources\\client\\asana\\asana.py": {
+    "mi": 75.69641054280966,
+    "rank": "A"
+  },
+  "app\\sources\\client\\azure\\azure_blob.py": {
+    "mi": 40.48614280773467,
+    "rank": "A"
+  },
+  "app\\sources\\client\\azure\\azure_files.py": {
+    "mi": 29.17480703848831,
+    "rank": "A"
+  },
+  "app\\sources\\client\\bitbucket\\bitbucket.py": {
+    "mi": 65.71149461479587,
+    "rank": "A"
+  },
+  "app\\sources\\client\\bookstack\\bookstack.py": {
+    "mi": 66.9380317407074,
+    "rank": "A"
+  },
+  "app\\sources\\client\\box\\box.py": {
+    "mi": 50.26853210187988,
+    "rank": "A"
+  },
+  "app\\sources\\client\\cifs\\cifs.py": {
+    "mi": 28.104395522872117,
+    "rank": "A"
+  },
+  "app\\sources\\client\\cifs\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\sources\\client\\clickhouse\\clickhouse.py": {
+    "mi": 54.43874075208918,
+    "rank": "A"
+  },
+  "app\\sources\\client\\clickup\\clickup.py": {
+    "mi": 47.23340689843755,
+    "rank": "A"
+  },
+  "app\\sources\\client\\confluence\\confluence.py": {
+    "mi": 37.31117279389418,
+    "rank": "A"
+  },
+  "app\\sources\\client\\databricks\\databricks.py": {
+    "mi": 51.060695777768345,
+    "rank": "A"
+  },
+  "app\\sources\\client\\discord\\discord.py": {
+    "mi": 71.23485840613868,
+    "rank": "A"
+  },
+  "app\\sources\\client\\dropbox\\dropbox_.py": {
+    "mi": 52.693055423269364,
+    "rank": "A"
+  },
+  "app\\sources\\client\\drupal_wiki\\drupal_wiki.py": {
+    "mi": 52.63185572371932,
+    "rank": "A"
+  },
+  "app\\sources\\client\\drupal_wiki\\graphql.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\sources\\client\\evernote\\evernote.py": {
+    "mi": 58.48781400515059,
+    "rank": "A"
+  },
+  "app\\sources\\client\\freshdesk\\freshdesk.py": {
+    "mi": 63.80544697006115,
+    "rank": "A"
+  },
+  "app\\sources\\client\\gcs\\gcs.py": {
+    "mi": 58.77287864268444,
+    "rank": "A"
+  },
+  "app\\sources\\client\\gcs\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\sources\\client\\github\\github.py": {
+    "mi": 49.43650040674735,
+    "rank": "A"
+  },
+  "app\\sources\\client\\gitlab\\gitlab.py": {
+    "mi": 47.092035512378146,
+    "rank": "A"
+  },
+  "app\\sources\\client\\google\\google.py": {
+    "mi": 44.49249896999408,
+    "rank": "A"
+  },
+  "app\\sources\\client\\google\\serialized_execute.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\sources\\client\\graphql\\client.py": {
+    "mi": 81.83804406832287,
+    "rank": "A"
+  },
+  "app\\sources\\client\\graphql\\response.py": {
+    "mi": 69.83906074770651,
+    "rank": "A"
+  },
+  "app\\sources\\client\\hackernews\\hackernews.py": {
+    "mi": 68.71858869970812,
+    "rank": "A"
+  },
+  "app\\sources\\client\\http\\http_client.py": {
+    "mi": 75.67107524639592,
+    "rank": "A"
+  },
+  "app\\sources\\client\\http\\http_request.py": {
+    "mi": 87.14957918630174,
+    "rank": "A"
+  },
+  "app\\sources\\client\\http\\http_resilient_transport.py": {
+    "mi": 75.97369289563527,
+    "rank": "A"
+  },
+  "app\\sources\\client\\http\\http_response.py": {
+    "mi": 76.58580829108006,
+    "rank": "A"
+  },
+  "app\\sources\\client\\http\\http_retry.py": {
+    "mi": 62.949347594966774,
+    "rank": "A"
+  },
+  "app\\sources\\client\\http\\exception\\exception.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\sources\\client\\jira\\jira.py": {
+    "mi": 38.95839630252415,
+    "rank": "A"
+  },
+  "app\\sources\\client\\lattice\\lattice.py": {
+    "mi": 64.45238162366444,
+    "rank": "A"
+  },
+  "app\\sources\\client\\linear\\graphql_op.py": {
+    "mi": 59.12057359073611,
+    "rank": "A"
+  },
+  "app\\sources\\client\\linear\\linear.py": {
+    "mi": 59.771891928764056,
+    "rank": "A"
+  },
+  "app\\sources\\client\\linkedin\\linkedin.py": {
+    "mi": 76.89643737606454,
+    "rank": "A"
+  },
+  "app\\sources\\client\\lumos\\lumos.py": {
+    "mi": 52.46647249843361,
+    "rank": "A"
+  },
+  "app\\sources\\client\\mariadb\\mariadb.py": {
+    "mi": 31.815862228759727,
+    "rank": "A"
+  },
+  "app\\sources\\client\\mariadb\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\sources\\client\\microsoft\\microsoft.py": {
+    "mi": 33.798346405198984,
+    "rank": "A"
+  },
+  "app\\sources\\client\\minio\\minio.py": {
+    "mi": 62.88437326140255,
+    "rank": "A"
+  },
+  "app\\sources\\client\\minio\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\sources\\client\\monday\\graphql_op.py": {
+    "mi": 53.757599710202385,
+    "rank": "A"
+  },
+  "app\\sources\\client\\monday\\monday.py": {
+    "mi": 57.27223655689238,
+    "rank": "A"
+  },
+  "app\\sources\\client\\nextcloud\\nextcloud.py": {
+    "mi": 60.40115618001818,
+    "rank": "A"
+  },
+  "app\\sources\\client\\notion\\notion.py": {
+    "mi": 50.01086590907392,
+    "rank": "A"
+  },
+  "app\\sources\\client\\pagerduty\\pagerduty.py": {
+    "mi": 61.670734745953084,
+    "rank": "A"
+  },
+  "app\\sources\\client\\postgres\\postgres.py": {
+    "mi": 35.36692684163234,
+    "rank": "A"
+  },
+  "app\\sources\\client\\postgres\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\sources\\client\\posthog\\posthog.py": {
+    "mi": 66.1997698764483,
+    "rank": "A"
+  },
+  "app\\sources\\client\\redshift\\redshift.py": {
+    "mi": 47.08699307094892,
+    "rank": "A"
+  },
+  "app\\sources\\client\\redshift\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\sources\\client\\s3\\s3.py": {
+    "mi": 62.50005658662331,
+    "rank": "A"
+  },
+  "app\\sources\\client\\s3\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\sources\\client\\salesforce\\salesforce.py": {
+    "mi": 58.71472286680623,
+    "rank": "A"
+  },
+  "app\\sources\\client\\servicenow\\servicenow.py": {
+    "mi": 43.025401431336924,
+    "rank": "A"
+  },
+  "app\\sources\\client\\slack\\slack.py": {
+    "mi": 54.51724243830538,
+    "rank": "A"
+  },
+  "app\\sources\\client\\smb\\share_enum.py": {
+    "mi": 37.58353049961506,
+    "rank": "A"
+  },
+  "app\\sources\\client\\smb\\smb.py": {
+    "mi": 35.70700453337828,
+    "rank": "A"
+  },
+  "app\\sources\\client\\smb\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\sources\\client\\snowflake\\snowflake.py": {
+    "mi": 43.169024187460955,
+    "rank": "A"
+  },
+  "app\\sources\\client\\trello\\trello.py": {
+    "mi": 69.11837081007806,
+    "rank": "A"
+  },
+  "app\\sources\\client\\utils\\utils.py": {
+    "mi": 63.37983760031916,
+    "rank": "A"
+  },
+  "app\\sources\\client\\workday\\workday.py": {
+    "mi": 60.69790503101198,
+    "rank": "A"
+  },
+  "app\\sources\\client\\zammad\\zammad.py": {
+    "mi": 53.71625963042894,
+    "rank": "A"
+  },
+  "app\\sources\\client\\zendesk\\zendesk.py": {
+    "mi": 56.20565921833087,
+    "rank": "A"
+  },
+  "app\\sources\\client\\zoom\\zoom.py": {
+    "mi": 40.511506088306454,
+    "rank": "A"
+  },
+  "app\\sources\\external\\airtable\\airtable.py": {
+    "mi": 9.128103749568655,
+    "rank": "B"
+  },
+  "app\\sources\\external\\airtable\\example.py": {
+    "mi": 87.65687545213008,
+    "rank": "A"
+  },
+  "app\\sources\\external\\airtable\\example_build_from_services.py": {
+    "mi": 88.5536299748223,
+    "rank": "A"
+  },
+  "app\\sources\\external\\asana\\asana_.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\sources\\external\\asana\\example.py": {
+    "mi": 60.35415076078119,
+    "rank": "A"
+  },
+  "app\\sources\\external\\azure\\azure_blob.py": {
+    "mi": 9.574785083310582,
+    "rank": "B"
+  },
+  "app\\sources\\external\\azure\\azure_files.py": {
+    "mi": 51.541235469233115,
+    "rank": "A"
+  },
+  "app\\sources\\external\\azure\\example.py": {
+    "mi": 95.31988109882852,
+    "rank": "A"
+  },
+  "app\\sources\\external\\azure\\example_build_from_services.py": {
+    "mi": 85.6697226306787,
+    "rank": "A"
+  },
+  "app\\sources\\external\\bitbucket\\bitbucket.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\sources\\external\\bitbucket\\example.py": {
+    "mi": 59.61588812634874,
+    "rank": "A"
+  },
+  "app\\sources\\external\\bookstack\\bookstack.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\sources\\external\\bookstack\\example.py": {
+    "mi": 53.30352566564623,
+    "rank": "A"
+  },
+  "app\\sources\\external\\bookstack\\example_build_from_services.py": {
+    "mi": 85.6697226306787,
+    "rank": "A"
+  },
+  "app\\sources\\external\\box\\box.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\sources\\external\\box\\example.py": {
+    "mi": 90.6176142627084,
+    "rank": "A"
+  },
+  "app\\sources\\external\\box\\example_build_from_services.py": {
+    "mi": 88.73955408800717,
+    "rank": "A"
+  },
+  "app\\sources\\external\\cifs\\cifs.py": {
+    "mi": 63.32268972197344,
+    "rank": "A"
+  },
+  "app\\sources\\external\\cifs\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\sources\\external\\clickhouse\\clickhouse.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\sources\\external\\clickhouse\\example.py": {
+    "mi": 25.95817877737172,
+    "rank": "A"
+  },
+  "app\\sources\\external\\clickup\\clickup.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\sources\\external\\clickup\\example.py": {
+    "mi": 55.99045504254352,
+    "rank": "A"
+  },
+  "app\\sources\\external\\common\\atlassian.py": {
+    "mi": 66.90990617056562,
+    "rank": "A"
+  },
+  "app\\sources\\external\\confluence\\confluence.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\sources\\external\\confluence\\example.py": {
+    "mi": 75.28981887357227,
+    "rank": "A"
+  },
+  "app\\sources\\external\\confluence\\example_build_from_services.py": {
+    "mi": 80.23653428830886,
+    "rank": "A"
+  },
+  "app\\sources\\external\\databricks\\databricks.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\sources\\external\\databricks\\example.py": {
+    "mi": 50.29916798575201,
+    "rank": "A"
+  },
+  "app\\sources\\external\\discord\\discord.py": {
+    "mi": 52.38985511750365,
+    "rank": "A"
+  },
+  "app\\sources\\external\\discord\\example.py": {
+    "mi": 63.60046984476636,
+    "rank": "A"
+  },
+  "app\\sources\\external\\discord\\example_build_from_services.py": {
+    "mi": 90.4160122961572,
+    "rank": "A"
+  },
+  "app\\sources\\external\\dropbox\\dropbox_.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\sources\\external\\dropbox\\example.py": {
+    "mi": 80.593796972916,
+    "rank": "A"
+  },
+  "app\\sources\\external\\dropbox\\example_build_from_services.py": {
+    "mi": 88.73955408800717,
+    "rank": "A"
+  },
+  "app\\sources\\external\\dropbox\\pretty_print.py": {
+    "mi": 79.61693672630602,
+    "rank": "A"
+  },
+  "app\\sources\\external\\drupal_wiki\\drupal_wiki.py": {
+    "mi": 58.22411304202431,
+    "rank": "A"
+  },
+  "app\\sources\\external\\drupal_wiki\\graphql.py": {
+    "mi": 80.83970524456164,
+    "rank": "A"
+  },
+  "app\\sources\\external\\evernote\\evernote.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\sources\\external\\evernote\\example.py": {
+    "mi": 72.63517104193643,
+    "rank": "A"
+  },
+  "app\\sources\\external\\evernote\\example_build_from_services.py": {
+    "mi": 88.73955408800717,
+    "rank": "A"
+  },
+  "app\\sources\\external\\freshdesk\\example.py": {
+    "mi": 23.748071688947988,
+    "rank": "A"
+  },
+  "app\\sources\\external\\freshdesk\\example_build_from_services.py": {
+    "mi": 88.5536299748223,
+    "rank": "A"
+  },
+  "app\\sources\\external\\freshdesk\\freshdesk.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\sources\\external\\gcs\\gcs.py": {
+    "mi": 52.52430776415957,
+    "rank": "A"
+  },
+  "app\\sources\\external\\gcs\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\sources\\external\\github\\example.py": {
+    "mi": 75.68347946846768,
+    "rank": "A"
+  },
+  "app\\sources\\external\\github\\example_build_from_services.py": {
+    "mi": 88.73955408800717,
+    "rank": "A"
+  },
+  "app\\sources\\external\\github\\github_.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\sources\\external\\github\\github_async.py": {
+    "mi": 14.477696584861821,
+    "rank": "B"
+  },
+  "app\\sources\\external\\gitlab\\example.py": {
+    "mi": 43.552182165662266,
+    "rank": "A"
+  },
+  "app\\sources\\external\\gitlab\\example_build_from_services.py": {
+    "mi": 88.73955408800717,
+    "rank": "A"
+  },
+  "app\\sources\\external\\gitlab\\gitlab_.py": {
+    "mi": 12.847559243651487,
+    "rank": "B"
+  },
+  "app\\sources\\external\\gitlab\\gitlab_data_source.py": {
+    "mi": 35.132496087680636,
+    "rank": "A"
+  },
+  "app\\sources\\external\\google\\admin\\admin.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\sources\\external\\google\\admin\\example.py": {
+    "mi": 60.7714636866904,
+    "rank": "A"
+  },
+  "app\\sources\\external\\google\\calendar\\example.py": {
+    "mi": 90.07632482364245,
+    "rank": "A"
+  },
+  "app\\sources\\external\\google\\calendar\\gcalendar.py": {
+    "mi": 16.080186042910626,
+    "rank": "B"
+  },
+  "app\\sources\\external\\google\\docs\\docs.py": {
+    "mi": 64.34968824911411,
+    "rank": "A"
+  },
+  "app\\sources\\external\\google\\docs\\example.py": {
+    "mi": 88.45544737109324,
+    "rank": "A"
+  },
+  "app\\sources\\external\\google\\drive\\drive.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\sources\\external\\google\\drive\\example.py": {
+    "mi": 79.62242391429673,
+    "rank": "A"
+  },
+  "app\\sources\\external\\google\\forms\\example.py": {
+    "mi": 91.46467096136033,
+    "rank": "A"
+  },
+  "app\\sources\\external\\google\\forms\\forms.py": {
+    "mi": 59.21234116414472,
+    "rank": "A"
+  },
+  "app\\sources\\external\\google\\gmail\\example.py": {
+    "mi": 87.9750968323174,
+    "rank": "A"
+  },
+  "app\\sources\\external\\google\\gmail\\gmail.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\sources\\external\\google\\gmail\\utils.py": {
+    "mi": 68.9796503230241,
+    "rank": "A"
+  },
+  "app\\sources\\external\\google\\meet\\example.py": {
+    "mi": 92.68007391442985,
+    "rank": "A"
+  },
+  "app\\sources\\external\\google\\meet\\meet.py": {
+    "mi": 54.00187444770349,
+    "rank": "A"
+  },
+  "app\\sources\\external\\google\\sheets\\example.py": {
+    "mi": 92.98894522877399,
+    "rank": "A"
+  },
+  "app\\sources\\external\\google\\sheets\\sheets.py": {
+    "mi": 46.35195944555094,
+    "rank": "A"
+  },
+  "app\\sources\\external\\google\\slides\\example.py": {
+    "mi": 92.74433782048445,
+    "rank": "A"
+  },
+  "app\\sources\\external\\google\\slides\\slides.py": {
+    "mi": 70.18938220657395,
+    "rank": "A"
+  },
+  "app\\sources\\external\\google\\youtube\\example.py": {
+    "mi": 70.05192113077383,
+    "rank": "A"
+  },
+  "app\\sources\\external\\google\\youtube\\youtube.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\sources\\external\\hackernews\\example.py": {
+    "mi": 80.19550555202848,
+    "rank": "A"
+  },
+  "app\\sources\\external\\hackernews\\hackernews.py": {
+    "mi": 56.40358304415342,
+    "rank": "A"
+  },
+  "app\\sources\\external\\jira\\example.py": {
+    "mi": 76.5360315525567,
+    "rank": "A"
+  },
+  "app\\sources\\external\\jira\\example_build_from_services.py": {
+    "mi": 80.69482850339432,
+    "rank": "A"
+  },
+  "app\\sources\\external\\jira\\jira.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\sources\\external\\lattice\\lattice.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\sources\\external\\linear\\example.py": {
+    "mi": 59.52825529284925,
+    "rank": "A"
+  },
+  "app\\sources\\external\\linear\\example_build_from_services.py": {
+    "mi": 87.97762138338322,
+    "rank": "A"
+  },
+  "app\\sources\\external\\linear\\linear.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\sources\\external\\linkedin\\example.py": {
+    "mi": 50.37820682490834,
+    "rank": "A"
+  },
+  "app\\sources\\external\\linkedin\\example_build_from_services.py": {
+    "mi": 88.11569227400474,
+    "rank": "A"
+  },
+  "app\\sources\\external\\linkedin\\linkedin.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\sources\\external\\lumos\\example.py": {
+    "mi": 50.548168056148604,
+    "rank": "A"
+  },
+  "app\\sources\\external\\lumos\\lumos.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\sources\\external\\mariadb\\example.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\sources\\external\\mariadb\\mariadb_.py": {
+    "mi": 47.00146739497778,
+    "rank": "A"
+  },
+  "app\\sources\\external\\mariadb\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\sources\\external\\microsoft\\one_drive\\example.py": {
+    "mi": 70.4268742407076,
+    "rank": "A"
+  },
+  "app\\sources\\external\\microsoft\\one_drive\\example_build_from_services.py": {
+    "mi": 85.33929329025194,
+    "rank": "A"
+  },
+  "app\\sources\\external\\microsoft\\one_drive\\one_drive.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\sources\\external\\microsoft\\one_note\\example.py": {
+    "mi": 25.840049260511545,
+    "rank": "A"
+  },
+  "app\\sources\\external\\microsoft\\one_note\\example_build_from_services.py": {
+    "mi": 87.60193611977306,
+    "rank": "A"
+  },
+  "app\\sources\\external\\microsoft\\one_note\\one_note.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\sources\\external\\microsoft\\outlook\\example.py": {
+    "mi": 74.99230275338478,
+    "rank": "A"
+  },
+  "app\\sources\\external\\microsoft\\outlook\\example_build_from_services.py": {
+    "mi": 88.96962132918131,
+    "rank": "A"
+  },
+  "app\\sources\\external\\microsoft\\outlook\\outlook.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\sources\\external\\microsoft\\planner\\example.py": {
+    "mi": 72.42382785359476,
+    "rank": "A"
+  },
+  "app\\sources\\external\\microsoft\\planner\\planner.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\sources\\external\\microsoft\\sharepoint\\example.py": {
+    "mi": 72.73767617644623,
+    "rank": "A"
+  },
+  "app\\sources\\external\\microsoft\\sharepoint\\example_build_from_services.py": {
+    "mi": 87.60193611977306,
+    "rank": "A"
+  },
+  "app\\sources\\external\\microsoft\\sharepoint\\sharepoint.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\sources\\external\\microsoft\\teams\\example.py": {
+    "mi": 72.7877571085236,
+    "rank": "A"
+  },
+  "app\\sources\\external\\microsoft\\teams\\teams.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\sources\\external\\microsoft\\users_groups\\example.py": {
+    "mi": 72.42382785359476,
+    "rank": "A"
+  },
+  "app\\sources\\external\\microsoft\\users_groups\\users_groups.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\sources\\external\\minio\\minio.py": {
+    "mi": 18.260450050232638,
+    "rank": "B"
+  },
+  "app\\sources\\external\\minio\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\sources\\external\\monday\\example.py": {
+    "mi": 45.18901398566203,
+    "rank": "A"
+  },
+  "app\\sources\\external\\monday\\monday_data_source.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\sources\\external\\nextcloud\\example.py": {
+    "mi": 60.359720391630596,
+    "rank": "A"
+  },
+  "app\\sources\\external\\nextcloud\\example_build_from_services.py": {
+    "mi": 68.24232930950696,
+    "rank": "A"
+  },
+  "app\\sources\\external\\nextcloud\\nextcloud.py": {
+    "mi": 22.73884454190007,
+    "rank": "A"
+  },
+  "app\\sources\\external\\notion\\example.py": {
+    "mi": 87.37595957974912,
+    "rank": "A"
+  },
+  "app\\sources\\external\\notion\\example_build_from_services.py": {
+    "mi": 83.75631510501204,
+    "rank": "A"
+  },
+  "app\\sources\\external\\notion\\notion.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\sources\\external\\pagerduty\\example.py": {
+    "mi": 48.02326114739033,
+    "rank": "A"
+  },
+  "app\\sources\\external\\pagerduty\\pagerduty.py": {
+    "mi": 43.66150337297562,
+    "rank": "A"
+  },
+  "app\\sources\\external\\postgres\\example.py": {
+    "mi": 53.46276444837115,
+    "rank": "A"
+  },
+  "app\\sources\\external\\postgres\\postgres_.py": {
+    "mi": 36.12469909836956,
+    "rank": "A"
+  },
+  "app\\sources\\external\\postgres\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\sources\\external\\posthog\\example.py": {
+    "mi": 35.695013886818394,
+    "rank": "A"
+  },
+  "app\\sources\\external\\posthog\\example_build_from_services.py": {
+    "mi": 89.88972754605797,
+    "rank": "A"
+  },
+  "app\\sources\\external\\posthog\\posthog.py": {
+    "mi": 22.187750295269378,
+    "rank": "A"
+  },
+  "app\\sources\\external\\redshift\\redshift_.py": {
+    "mi": 50.82793492885813,
+    "rank": "A"
+  },
+  "app\\sources\\external\\redshift\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\sources\\external\\s3\\example.py": {
+    "mi": 39.14841343168961,
+    "rank": "A"
+  },
+  "app\\sources\\external\\s3\\example_build_from_services.py": {
+    "mi": 88.73955408800717,
+    "rank": "A"
+  },
+  "app\\sources\\external\\s3\\s3.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\sources\\external\\s3\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\sources\\external\\salesforce\\example.py": {
+    "mi": 60.427927153490685,
+    "rank": "A"
+  },
+  "app\\sources\\external\\salesforce\\salesforce_data_source.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\sources\\external\\servicenow\\example.py": {
+    "mi": 45.342625458082985,
+    "rank": "A"
+  },
+  "app\\sources\\external\\servicenow\\example_build_from_services.py": {
+    "mi": 87.97762138338322,
+    "rank": "A"
+  },
+  "app\\sources\\external\\servicenow\\models.py": {
+    "mi": 57.014273808311145,
+    "rank": "A"
+  },
+  "app\\sources\\external\\servicenow\\servicenow.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\sources\\external\\slack\\example.py": {
+    "mi": 62.03273780174288,
+    "rank": "A"
+  },
+  "app\\sources\\external\\slack\\example_build_from_services.py": {
+    "mi": 88.11569227400474,
+    "rank": "A"
+  },
+  "app\\sources\\external\\slack\\slack.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\sources\\external\\smb\\smb.py": {
+    "mi": 57.38234800964242,
+    "rank": "A"
+  },
+  "app\\sources\\external\\smb\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\sources\\external\\snowflake\\example.py": {
+    "mi": 22.1441315801071,
+    "rank": "A"
+  },
+  "app\\sources\\external\\snowflake\\snowflake_.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\sources\\external\\trello\\example.py": {
+    "mi": 63.521633598636825,
+    "rank": "A"
+  },
+  "app\\sources\\external\\trello\\trello.py": {
+    "mi": 53.79100382192872,
+    "rank": "A"
+  },
+  "app\\sources\\external\\utils\\oauth.py": {
+    "mi": 56.458059778470556,
+    "rank": "A"
+  },
+  "app\\sources\\external\\workday\\example.py": {
+    "mi": 57.36034682652078,
+    "rank": "A"
+  },
+  "app\\sources\\external\\workday\\workday.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\sources\\external\\zammad\\example.py": {
+    "mi": 64.96761938682577,
+    "rank": "A"
+  },
+  "app\\sources\\external\\zammad\\zammad.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\sources\\external\\zendesk\\example.py": {
+    "mi": 68.93627956909148,
+    "rank": "A"
+  },
+  "app\\sources\\external\\zendesk\\example_build_from_services.py": {
+    "mi": 88.5536299748223,
+    "rank": "A"
+  },
+  "app\\sources\\external\\zendesk\\zendesk.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\sources\\external\\zoom\\example.py": {
+    "mi": 63.06321857745692,
+    "rank": "A"
+  },
+  "app\\sources\\external\\zoom\\zoom.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\telemetry\\backend.py": {
+    "mi": 65.1027426455863,
+    "rank": "A"
+  },
+  "app\\telemetry\\event_buffer.py": {
+    "mi": 83.30327051880592,
+    "rank": "A"
+  },
+  "app\\telemetry\\flag.py": {
+    "mi": 98.74715404890097,
+    "rank": "A"
+  },
+  "app\\telemetry\\identity.py": {
+    "mi": 71.68722804117589,
+    "rank": "A"
+  },
+  "app\\telemetry\\middleware.py": {
+    "mi": 77.85199963236967,
+    "rank": "A"
+  },
+  "app\\telemetry\\pusher.py": {
+    "mi": 39.47256877118513,
+    "rank": "A"
+  },
+  "app\\telemetry\\setup.py": {
+    "mi": 93.05115069933703,
+    "rank": "A"
+  },
+  "app\\telemetry\\modules\\activity_metrics.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\telemetry\\modules\\collection_metrics.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\telemetry\\modules\\connector_metrics.py": {
+    "mi": 95.17357214208229,
+    "rank": "A"
+  },
+  "app\\telemetry\\modules\\entity_index_metrics.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\telemetry\\modules\\entity_resolution_metrics.py": {
+    "mi": 79.3614856074642,
+    "rank": "A"
+  },
+  "app\\telemetry\\modules\\http_metrics.py": {
+    "mi": 92.41664287516298,
+    "rank": "A"
+  },
+  "app\\telemetry\\modules\\named_entity_metrics.py": {
+    "mi": 59.393828675920396,
+    "rank": "A"
+  },
+  "app\\telemetry\\modules\\scheduling_metrics.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\telemetry\\modules\\soft_delete_metrics.py": {
+    "mi": 74.49266897933593,
+    "rank": "A"
+  },
+  "app\\telemetry\\modules\\vector_search_metrics.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\telemetry\\modules\\web_browser_metrics.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\telemetry\\modules\\web_metrics.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\telemetry\\modules\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\utils\\aimodels.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\utils\\api_call.py": {
+    "mi": 73.24218543863121,
+    "rank": "A"
+  },
+  "app\\utils\\attachment_mime_types.py": {
+    "mi": 85.87675391465554,
+    "rank": "A"
+  },
+  "app\\utils\\attachment_utils.py": {
+    "mi": 38.7117858065026,
+    "rank": "A"
+  },
+  "app\\utils\\cache_helpers.py": {
+    "mi": 73.37404421832335,
+    "rank": "A"
+  },
+  "app\\utils\\chat_helpers.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\utils\\citations.py": {
+    "mi": 4.9894405436751015,
+    "rank": "C"
+  },
+  "app\\utils\\concurrency.py": {
+    "mi": 63.0530487058821,
+    "rank": "A"
+  },
+  "app\\utils\\connector_instances.py": {
+    "mi": 97.42687744510776,
+    "rank": "A"
+  },
+  "app\\utils\\conversation_tasks.py": {
+    "mi": 68.46470446483768,
+    "rank": "A"
+  },
+  "app\\utils\\cpu_offload.py": {
+    "mi": 80.31388753191618,
+    "rank": "A"
+  },
+  "app\\utils\\custom_chat_model.py": {
+    "mi": 62.8873586097181,
+    "rank": "A"
+  },
+  "app\\utils\\custom_embeddings.py": {
+    "mi": 50.361573820262905,
+    "rank": "A"
+  },
+  "app\\utils\\datetime_utils.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\utils\\egress_ips.py": {
+    "mi": 71.44261096907762,
+    "rank": "A"
+  },
+  "app\\utils\\embedding_retry.py": {
+    "mi": 60.9313513539314,
+    "rank": "A"
+  },
+  "app\\utils\\embedding_server_client.py": {
+    "mi": 57.90929913580454,
+    "rank": "A"
+  },
+  "app\\utils\\env_config.py": {
+    "mi": 72.99188874149316,
+    "rank": "A"
+  },
+  "app\\utils\\env_utils.py": {
+    "mi": 72.40630771766715,
+    "rank": "A"
+  },
+  "app\\utils\\exact_text_index.py": {
+    "mi": 37.50023941117564,
+    "rank": "A"
+  },
+  "app\\utils\\execute_query.py": {
+    "mi": 37.900830071698884,
+    "rank": "A"
+  },
+  "app\\utils\\fetch_full_record.py": {
+    "mi": 39.651139059666406,
+    "rank": "A"
+  },
+  "app\\utils\\fetch_slack_nearby_messages.py": {
+    "mi": 25.15184566627702,
+    "rank": "A"
+  },
+  "app\\utils\\fetch_slack_thread.py": {
+    "mi": 41.81687605293976,
+    "rank": "A"
+  },
+  "app\\utils\\filename_utils.py": {
+    "mi": 82.24103791472264,
+    "rank": "A"
+  },
+  "app\\utils\\file_signatures.py": {
+    "mi": 99.45526308385045,
+    "rank": "A"
+  },
+  "app\\utils\\html_to_blocks.py": {
+    "mi": 52.042290954254014,
+    "rank": "A"
+  },
+  "app\\utils\\image_admission.py": {
+    "mi": 44.03175366120101,
+    "rank": "A"
+  },
+  "app\\utils\\image_policy.py": {
+    "mi": 68.679259724684,
+    "rank": "A"
+  },
+  "app\\utils\\image_utils.py": {
+    "mi": 36.83005631368196,
+    "rank": "A"
+  },
+  "app\\utils\\indexing_helpers.py": {
+    "mi": 69.33457459272724,
+    "rank": "A"
+  },
+  "app\\utils\\indexing_metrics.py": {
+    "mi": 57.81474774560539,
+    "rank": "A"
+  },
+  "app\\utils\\indexing_timing.py": {
+    "mi": 46.154991875501764,
+    "rank": "A"
+  },
+  "app\\utils\\jinja_templates.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\utils\\jwt.py": {
+    "mi": 78.04398804493756,
+    "rank": "A"
+  },
+  "app\\utils\\kh_breadcrumbs.py": {
+    "mi": 69.6104326084344,
+    "rank": "A"
+  },
+  "app\\utils\\kh_chain_tops.py": {
+    "mi": 82.67137924430438,
+    "rank": "A"
+  },
+  "app\\utils\\kh_cursor.py": {
+    "mi": 48.368293296953816,
+    "rank": "A"
+  },
+  "app\\utils\\libreoffice_convert.py": {
+    "mi": 57.74949818647526,
+    "rank": "A"
+  },
+  "app\\utils\\llm.py": {
+    "mi": 55.10034656601591,
+    "rank": "A"
+  },
+  "app\\utils\\llm_api_mode_store.py": {
+    "mi": 60.95777096825785,
+    "rank": "A"
+  },
+  "app\\utils\\logger.py": {
+    "mi": 61.10559794472597,
+    "rank": "A"
+  },
+  "app\\utils\\loop_bridge.py": {
+    "mi": 80.20889371368852,
+    "rank": "A"
+  },
+  "app\\utils\\loop_lag_monitor.py": {
+    "mi": 47.816408188821306,
+    "rank": "A"
+  },
+  "app\\utils\\loop_share.py": {
+    "mi": 79.037522627581,
+    "rank": "A"
+  },
+  "app\\utils\\message_chunks.py": {
+    "mi": 91.9182542822913,
+    "rank": "A"
+  },
+  "app\\utils\\model_egress.py": {
+    "mi": 50.0488212810984,
+    "rank": "A"
+  },
+  "app\\utils\\not_indexed.py": {
+    "mi": 77.48637336117491,
+    "rank": "A"
+  },
+  "app\\utils\\oauth_config.py": {
+    "mi": 39.86026305144289,
+    "rank": "A"
+  },
+  "app\\utils\\opik.py": {
+    "mi": 73.51920249261572,
+    "rank": "A"
+  },
+  "app\\utils\\pattern_match.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app\\utils\\pdf_stream_conversion.py": {
+    "mi": 63.350226485060105,
+    "rank": "A"
+  },
+  "app\\utils\\pdf_utils.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\utils\\process_hardening.py": {
+    "mi": 89.63587111069792,
+    "rank": "A"
+  },
+  "app\\utils\\public_http.py": {
+    "mi": 57.90357055171189,
+    "rank": "A"
+  },
+  "app\\utils\\query_decompose.py": {
+    "mi": 47.84727258784688,
+    "rank": "A"
+  },
+  "app\\utils\\query_transform.py": {
+    "mi": 75.89720202358836,
+    "rank": "A"
+  },
+  "app\\utils\\record_access.py": {
+    "mi": 72.3763370383558,
+    "rank": "A"
+  },
+  "app\\utils\\record_block_selection.py": {
+    "mi": 43.3297924586124,
+    "rank": "A"
+  },
+  "app\\utils\\record_reader.py": {
+    "mi": 44.968866277489866,
+    "rank": "A"
+  },
+  "app\\utils\\render_budget.py": {
+    "mi": 44.30493585430253,
+    "rank": "A"
+  },
+  "app\\utils\\request_context.py": {
+    "mi": 68.00711903417444,
+    "rank": "A"
+  },
+  "app\\utils\\retry.py": {
+    "mi": 81.00191788364471,
+    "rank": "A"
+  },
+  "app\\utils\\runtime_threads.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\utils\\semaphore_logger.py": {
+    "mi": 55.0558379227566,
+    "rank": "A"
+  },
+  "app\\utils\\stage_timer.py": {
+    "mi": 61.64810947637967,
+    "rank": "A"
+  },
+  "app\\utils\\storage_path.py": {
+    "mi": 59.1885521581913,
+    "rank": "A"
+  },
+  "app\\utils\\streaming.py": {
+    "mi": 13.984866108870003,
+    "rank": "B"
+  },
+  "app\\utils\\table_enrichment.py": {
+    "mi": 33.20519369954005,
+    "rank": "A"
+  },
+  "app\\utils\\time_conversion.py": {
+    "mi": 53.333840921863334,
+    "rank": "A"
+  },
+  "app\\utils\\tool_handlers.py": {
+    "mi": 58.63429144446629,
+    "rank": "A"
+  },
+  "app\\utils\\url_fetcher.py": {
+    "mi": 28.62796290592905,
+    "rank": "A"
+  },
+  "app\\utils\\url_redaction.py": {
+    "mi": 43.57668961481016,
+    "rank": "A"
+  },
+  "app\\utils\\user_errors.py": {
+    "mi": 33.60677906407375,
+    "rank": "A"
+  },
+  "app\\utils\\user_lookup.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\utils\\user_messages.py": {
+    "mi": 84.65260116512897,
+    "rank": "A"
+  },
+  "app\\utils\\validation_messages.py": {
+    "mi": 51.23081278030025,
+    "rank": "A"
+  },
+  "app\\utils\\worker_scaling.py": {
+    "mi": 57.579929229475574,
+    "rank": "A"
+  },
+  "app\\utils\\converters\\caption_map.py": {
+    "mi": 81.78161941019751,
+    "rank": "A"
+  },
+  "app\\utils\\converters\\docling_doc_to_blocks.py": {
+    "mi": 48.03395454418357,
+    "rank": "A"
+  },
+  "app\\utils\\encryption\\encryption_service.py": {
+    "mi": 65.34295969042896,
+    "rank": "A"
+  },
+  "app\\utils\\text_fragments\\cache.py": {
+    "mi": 66.7231391970956,
+    "rank": "A"
+  },
+  "app\\utils\\text_fragments\\cli.py": {
+    "mi": 75.45955452536964,
+    "rank": "A"
+  },
+  "app\\utils\\text_fragments\\codec.py": {
+    "mi": 57.02265389289423,
+    "rank": "A"
+  },
+  "app\\utils\\text_fragments\\extractors.py": {
+    "mi": 47.88505374685654,
+    "rank": "A"
+  },
+  "app\\utils\\text_fragments\\facade.py": {
+    "mi": 84.87795309295394,
+    "rank": "A"
+  },
+  "app\\utils\\text_fragments\\generator.py": {
+    "mi": 64.07717537519198,
+    "rank": "A"
+  },
+  "app\\utils\\text_fragments\\models.py": {
+    "mi": 68.64054531430544,
+    "rank": "A"
+  },
+  "app\\utils\\text_fragments\\normalize.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\utils\\text_fragments\\segmentation.py": {
+    "mi": 53.41107152135072,
+    "rank": "A"
+  },
+  "app\\utils\\text_fragments\\strategies.py": {
+    "mi": 69.51535362257958,
+    "rank": "A"
+  },
+  "app\\utils\\text_fragments\\url.py": {
+    "mi": 79.14521274505337,
+    "rank": "A"
+  },
+  "app\\utils\\text_fragments\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\utils\\transformation\\bbox.py": {
+    "mi": 74.68730916569776,
+    "rank": "A"
+  },
+  "app\\web\\budget.py": {
+    "mi": 76.27398955911255,
+    "rank": "A"
+  },
+  "app\\web\\chain.py": {
+    "mi": 58.09773191878192,
+    "rank": "A"
+  },
+  "app\\web\\config.py": {
+    "mi": 75.84312523802045,
+    "rank": "A"
+  },
+  "app\\web\\container.py": {
+    "mi": 62.87939693981688,
+    "rank": "A"
+  },
+  "app\\web\\deadline.py": {
+    "mi": 60.29467103929181,
+    "rank": "A"
+  },
+  "app\\web\\endpoint.py": {
+    "mi": 70.79998848099491,
+    "rank": "A"
+  },
+  "app\\web\\errors.py": {
+    "mi": 59.69315652910734,
+    "rank": "A"
+  },
+  "app\\web\\firecrawl.py": {
+    "mi": 97.04389089189881,
+    "rank": "A"
+  },
+  "app\\web\\gate.py": {
+    "mi": 93.78140648212674,
+    "rank": "A"
+  },
+  "app\\web\\health.py": {
+    "mi": 74.97943882172555,
+    "rank": "A"
+  },
+  "app\\web\\http_client.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\web\\models.py": {
+    "mi": 73.05032355452558,
+    "rank": "A"
+  },
+  "app\\web\\ports.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\web\\services.py": {
+    "mi": 54.252850931092624,
+    "rank": "A"
+  },
+  "app\\web\\untrusted.py": {
+    "mi": 96.94059239225369,
+    "rank": "A"
+  },
+  "app\\web\\url.py": {
+    "mi": 80.36332800243812,
+    "rank": "A"
+  },
+  "app\\web\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\web\\fetch\\browser.py": {
+    "mi": 71.67196461617038,
+    "rank": "A"
+  },
+  "app\\web\\fetch\\builtin.py": {
+    "mi": 59.816252501951084,
+    "rank": "A"
+  },
+  "app\\web\\fetch\\crawl4ai_server.py": {
+    "mi": 61.615428587975835,
+    "rank": "A"
+  },
+  "app\\web\\fetch\\firecrawl.py": {
+    "mi": 63.29095808137738,
+    "rank": "A"
+  },
+  "app\\web\\fetch\\http.py": {
+    "mi": 59.24786108103005,
+    "rank": "A"
+  },
+  "app\\web\\fetch\\parsers.py": {
+    "mi": 47.59788247462602,
+    "rank": "A"
+  },
+  "app\\web\\fetch\\remote.py": {
+    "mi": 67.74723745646854,
+    "rank": "A"
+  },
+  "app\\web\\fetch\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\web\\search\\brave.py": {
+    "mi": 70.55562609205698,
+    "rank": "A"
+  },
+  "app\\web\\search\\ddgs_search.py": {
+    "mi": 75.66474045764843,
+    "rank": "A"
+  },
+  "app\\web\\search\\duckduckgo_html.py": {
+    "mi": 58.771290872780746,
+    "rank": "A"
+  },
+  "app\\web\\search\\exa.py": {
+    "mi": 80.8257575764687,
+    "rank": "A"
+  },
+  "app\\web\\search\\firecrawl.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\web\\search\\searxng.py": {
+    "mi": 69.00400879702336,
+    "rank": "A"
+  },
+  "app\\web\\search\\serper.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\web\\search\\tavily.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app\\web\\search\\_api.py": {
+    "mi": 71.59779708968108,
+    "rank": "A"
+  },
+  "app\\web\\search\\_parse.py": {
+    "mi": 83.56055637689315,
+    "rank": "A"
+  },
+  "app\\web\\search\\__init__.py": {
+    "mi": 81.00300921601529,
+    "rank": "A"
+  },
+  "app\\web\\tools\\fetch_url.py": {
+    "mi": 69.4818151582889,
+    "rank": "A"
+  },
+  "app\\web\\tools\\views.py": {
+    "mi": 55.70834389919042,
+    "rank": "A"
+  },
+  "app\\web\\tools\\web_search.py": {
+    "mi": 87.6515285722024,
+    "rank": "A"
+  },
+  "app\\web\\tools\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  }
+}
