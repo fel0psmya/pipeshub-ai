@@ -16,7 +16,7 @@
 | :--- | :--- | :--- |
 | 📄 **Relatório Final** | [`entrega-qs/Relatorio_Final_QS.pdf`](./entrega-qs/Relatorio_Final_QS.pdf) | [Abrir no Google Docs](https://docs.google.com/document/d/1DbzdGAiFFZWVzYhjxlMnPt0LglWSVOri3F1ksLzAAUU/edit?usp=sharing) |
 | 📓 **Diário de Bordo** | [`entrega-qs/Diario_de_Bordo_QS.pdf`](./entrega-qs/Diario_de_Bordo_QS.pdf) | [Abrir no Google Docs](https://docs.google.com/document/d/1wFAyl15ANM5Pgw3hReOcklHiZMC9iuM2SUWGBMmAkcg/edit?usp=sharing) |
-| 🎥 **Vídeo de Apresentação** | *(Link externo)* | **[Assistir à Apresentação ](COLE_AQUI_O_LINK_DO_YOUTUBE_OU_DRIVE)** |
+| 🎥 **Vídeo de Apresentação** | *(Link externo)* | **[Assistir à Apresentação ]()** |
 | 🚀 **Pull Request Oficial** | [Ver commits das 49 refatorações](https://github.com/pipeshub-ai/pipeshub-ai/pull/4946/commits) | **[PR #4946 em `pipeshub-ai/pipeshub-ai`](https://github.com/pipeshub-ai/pipeshub-ai/pull/4946)** |
 | 🔖 **Commit Base (Baseline)** | `93e6bd99a854071f57a8dc5b47ddc3b13f7e2e2d` | [Ver árvore no commit inicial](https://github.com/fel0psmya/pipeshub-ai/tree/93e6bd99a854071f57a8dc5b47ddc3b13f7e2e2d) |
 
