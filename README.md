@@ -1,4 +1,4 @@
-# Relatório Final — Refatoração de Test Smells (PipesHub AI)
+# Refatoração de Test Smells (PipesHub AI)
 
 **Disciplina:** Qualidade de Software (2026.2 - T01) — UFC Quixadá  
 **Equipe:**
